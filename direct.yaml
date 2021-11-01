@@ -1,0 +1,24 @@
+payload:
+  # >> (private domains)
+  - DOMAIN-KEYWORD,xiaoyangzai.
+
+  # >> (tiantang)
+  - DOMAIN-KEYWORD,tiantang
+
+  # >> (cloudflare)
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+
+  # >> (spartan)
+  - DOMAIN-SUFFIX,spartanhost.net
+  - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,livechatinc.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+
+  # >> (tampermonkey)
+  - DOMAIN-SUFFIX,greasyfork.org
+
+  # >> (videos)
+  - DOMAIN-SUFFIX,mypianku.net
+  - DOMAIN-SUFFIX,mypianku.li
