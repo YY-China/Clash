@@ -2,6 +2,14 @@ payload:
   # >> (private domains)
   - DOMAIN-KEYWORD,xiaoyangzai.
 
+  # >> (linux)
+  - DOMAIN-SUFFIX,debian.com
+  - DOMAIN-SUFFIX,debian.net
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,ubuntu.net
+  - DOMAIN-SUFFIX,ubuntu.org
+
   # >> (tiantang)
   - DOMAIN-KEYWORD,tiantang
 
