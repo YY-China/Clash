@@ -2,6 +2,9 @@ payload:
   # >> (private domains)
   - DOMAIN-KEYWORD,xiaoyangzai.
 
+  # >> (tiantang)
+  - DOMAIN-KEYWORD,tiantang
+
   # >> (linux)
   - DOMAIN-SUFFIX,debian.com
   - DOMAIN-SUFFIX,debian.net
@@ -9,9 +12,6 @@ payload:
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,ubuntu.net
   - DOMAIN-SUFFIX,ubuntu.org
-
-  # >> (tiantang)
-  - DOMAIN-KEYWORD,tiantang
 
   # >> (cloudflare)
   - DOMAIN-SUFFIX,cloudflare.com
