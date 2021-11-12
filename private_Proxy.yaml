@@ -12,10 +12,6 @@ payload:
   - DOMAIN-SUFFIX,tgstat.com
   - DOMAIN-SUFFIX,tgchannels.org
 
-  # >> (docker)
-  - DOMAIN-SUFFIX,docker.io
-  - DOMAIN-SUFFIX,docker.com
-
   # >> (etcher)
   - DOMAIN-SUFFIX,balena.io
 
