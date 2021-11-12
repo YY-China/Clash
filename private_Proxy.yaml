@@ -28,3 +28,6 @@ payload:
   - DOMAIN-SUFFIX,mudvod.tv
   - DOMAIN-SUFFIX,vod360.net
   - DOMAIN-SUFFIX,saberfeedback.com
+
+  # >> (others)
+  - DOMAIN-SUFFIX,googletagmanager.com
