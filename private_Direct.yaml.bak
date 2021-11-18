@@ -5,6 +5,14 @@ payload:
   # >> (tiantang)
   - DOMAIN-KEYWORD,tiantang
 
+  # >> (linux)
+  - DOMAIN-SUFFIX,debian.com
+  - DOMAIN-SUFFIX,debian.net
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,ubuntu.net
+  - DOMAIN-SUFFIX,ubuntu.org
+
   # >> (docker)
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com
