@@ -5,6 +5,9 @@ payload:
   # >> (tiantang)
   - DOMAIN-KEYWORD,tiantang
 
+  # >> (yandex)
+  - DOMAIN-SUFFIX,yandex.net
+
   # >> (docker)
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com
