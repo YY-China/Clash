@@ -5,8 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,ubuntu.net
   - DOMAIN-SUFFIX,ubuntu.org
-  - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,adiscon.com
+  - DOMAIN-SUFFIX,appspot.com
+  - DOMAIN-SUFFIX,askapache.com
   - DOMAIN-SUFFIX,astron.com
   - DOMAIN-SUFFIX,bintray.com
   - DOMAIN-SUFFIX,candelatech.com
@@ -59,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,zx2c4.com
   - DOMAIN-SUFFIX,augeas.net
   - DOMAIN-SUFFIX,buildroot.net
+  - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,clamav.net
   - DOMAIN-SUFFIX,daemonology.net
   - DOMAIN-SUFFIX,daper.net
@@ -77,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,lighttpd.net
   - DOMAIN-SUFFIX,lstn.net
   - DOMAIN-SUFFIX,mozilla.net
+  - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,nexcess.net
   - DOMAIN-SUFFIX,openvpn.net
   - DOMAIN-SUFFIX,php.net
@@ -104,6 +107,7 @@ payload:
   - DOMAIN-SUFFIX,bitlbee.org
   - DOMAIN-SUFFIX,bitmath.org
   - DOMAIN-SUFFIX,brain-dump.org
+  - DOMAIN-SUFFIX,c-ares.org
   - DOMAIN-SUFFIX,caida.org
   - DOMAIN-SUFFIX,cairographics.org
   - DOMAIN-SUFFIX,cakelab.org
@@ -152,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,kamailio.org
   - DOMAIN-SUFFIX,keepalived.org
   - DOMAIN-SUFFIX,kernel.org
+  - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,leptonica.org
   - DOMAIN-SUFFIX,libarchive.org
   - DOMAIN-SUFFIX,libc.org

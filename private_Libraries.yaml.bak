@@ -1,4 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,debian.com
+  - DOMAIN-SUFFIX,debian.net
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,ubuntu.net
+  - DOMAIN-SUFFIX,ubuntu.org
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,adiscon.com
   - DOMAIN-SUFFIX,astron.com
