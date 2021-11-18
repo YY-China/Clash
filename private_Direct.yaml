@@ -32,3 +32,6 @@ payload:
   # >> (videos)
   - DOMAIN-SUFFIX,mypianku.net
   - DOMAIN-SUFFIX,mypianku.li
+
+  # >> (others)
+  - DOMAIN-SUFFIX,akamaized.net
