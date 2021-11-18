@@ -156,7 +156,6 @@ payload:
   - DOMAIN-SUFFIX,kamailio.org
   - DOMAIN-SUFFIX,keepalived.org
   - DOMAIN-SUFFIX,kernel.org
-  - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,leptonica.org
   - DOMAIN-SUFFIX,libarchive.org
   - DOMAIN-SUFFIX,libc.org

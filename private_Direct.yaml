@@ -12,9 +12,6 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com
 
-  # >> (digicert)
-  - DOMAIN-SUFFIX,digicert.com
-
   # >> (cloudflare)
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
@@ -35,3 +32,5 @@ payload:
 
   # >> (others)
   - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,lencr.org
