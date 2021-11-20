@@ -79,7 +79,6 @@ payload:
   - DOMAIN-SUFFIX,lighttpd.net
   - DOMAIN-SUFFIX,lstn.net
   - DOMAIN-SUFFIX,mozilla.net
-  - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,nexcess.net
   - DOMAIN-SUFFIX,openvpn.net
   - DOMAIN-SUFFIX,php.net
