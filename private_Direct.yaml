@@ -1,39 +1,26 @@
 payload:
-  # >> (private domains)
   - DOMAIN-KEYWORD,xiaoyangzai.
-
-  # >> (tiantang)
-  - DOMAIN-KEYWORD,tiantang
-
-  # >> (yandex)
-  - DOMAIN-SUFFIX,yandex.net
-
-  # >> (docker)
-  - DOMAIN-SUFFIX,docker.io
-  - DOMAIN-SUFFIX,docker.com
-
-  # >> (cloudflare)
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloudflare-dns.com
-
-  # >> (spartan)
-  - DOMAIN-SUFFIX,spartanhost.net
-  - DOMAIN-SUFFIX,hcaptcha.com
-  - DOMAIN-SUFFIX,livechatinc.com
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,stripe.network
-
-  # >> (tampermonkey)
-  - DOMAIN-SUFFIX,greasyfork.org
-
-  # >> (videos)
-  - DOMAIN-SUFFIX,mypianku.net
-  - DOMAIN-SUFFIX,mypianku.li
-
-  # >> (others)
-  - DOMAIN-SUFFIX,digicert.com
-  - DOMAIN-SUFFIX,jquery.com
-  - DOMAIN-SUFFIX,akamaized.net
+  # >> +.com
+  - DOMAIN-SUFFIX,cloudflare.com # cloudflare
+  - DOMAIN-SUFFIX,cloudflare-dns.com # cloudflare
+  - DOMAIN-SUFFIX,digicert.com # digicert
+  - DOMAIN-SUFFIX,docker.com # docker
+  - DOMAIN-SUFFIX,hcaptcha.com # spartan
+  - DOMAIN-SUFFIX,jquery.com # jquery
+  - DOMAIN-SUFFIX,livechatinc.com # spartan
+  - DOMAIN-SUFFIX,stripe.com # spartan
+  # >> +.net
   - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,mypianku.net # 片库网
   - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,spartanhost.net # spartan
+  - DOMAIN-SUFFIX,yandex.net # yandex
+  # >> +.org
+  - DOMAIN-SUFFIX,greasyfork.org # 油猴脚本
   - DOMAIN-SUFFIX,lencr.org
+  # >> +.**
+  - DOMAIN-SUFFIX,docker.io # docker
+  - DOMAIN-SUFFIX,mypianku.li # 片库网
+  # >> +.****
+  - DOMAIN-SUFFIX,stripe.network # spartan

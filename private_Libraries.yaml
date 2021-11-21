@@ -1,10 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,debian.com
-  - DOMAIN-SUFFIX,debian.net
-  - DOMAIN-SUFFIX,debian.org
-  - DOMAIN-SUFFIX,ubuntu.com
-  - DOMAIN-SUFFIX,ubuntu.net
-  - DOMAIN-SUFFIX,ubuntu.org
+  # >> +.com
   - DOMAIN-SUFFIX,adiscon.com
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,askapache.com
@@ -16,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,creytiv.com
   - DOMAIN-SUFFIX,cryptopp.com
   - DOMAIN-SUFFIX,cypress.com
+  - DOMAIN-SUFFIX,debian.com
   - DOMAIN-SUFFIX,deviousfish.com
   - DOMAIN-SUFFIX,farsightsecurity.com
   - DOMAIN-SUFFIX,gitlab.com
@@ -52,13 +48,16 @@ payload:
   - DOMAIN-SUFFIX,telldus.com
   - DOMAIN-SUFFIX,tripadvisor.com
   - DOMAIN-SUFFIX,tuxera.com
+  - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,vanheusden.com
   - DOMAIN-SUFFIX,verysync.com
   - DOMAIN-SUFFIX,x10host.com
   - DOMAIN-SUFFIX,yubico.com
   - DOMAIN-SUFFIX,zabbix.com
   - DOMAIN-SUFFIX,zx2c4.com
+  # >> +.net
   - DOMAIN-SUFFIX,augeas.net
+  - DOMAIN-SUFFIX,debian.net
   - DOMAIN-SUFFIX,buildroot.net
   - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,clamav.net
@@ -90,7 +89,9 @@ payload:
   - DOMAIN-SUFFIX,srcbox.net
   - DOMAIN-SUFFIX,syringanetworks.net
   - DOMAIN-SUFFIX,thewalter.net
+  - DOMAIN-SUFFIX,ubuntu.net
   - DOMAIN-SUFFIX,zlib.net
+  # >> +.org
   - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,2f30.org
   - DOMAIN-SUFFIX,acpica.org
@@ -117,6 +118,7 @@ payload:
   - DOMAIN-SUFFIX,collectd.org
   - DOMAIN-SUFFIX,cpan.org
   - DOMAIN-SUFFIX,cyrusimap.org
+  - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,dereferenced.org
   - DOMAIN-SUFFIX,dest-unreach.org
   - DOMAIN-SUFFIX,digip.org
@@ -241,6 +243,7 @@ payload:
   - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,tukaani.org
   - DOMAIN-SUFFIX,tuxfamily.org
+  - DOMAIN-SUFFIX,ubuntu.org
   - DOMAIN-SUFFIX,uclibc.org
   - DOMAIN-SUFFIX,unix4lyfe.org
   - DOMAIN-SUFFIX,unixodbc.org
@@ -252,6 +255,7 @@ payload:
   - DOMAIN-SUFFIX,xiph.org
   - DOMAIN-SUFFIX,xmlsoft.org
   - DOMAIN-SUFFIX,zeromq.org
+  # >> +.**
   - DOMAIN-SUFFIX,ac.at
   - DOMAIN-SUFFIX,pkern.at
   - DOMAIN-SUFFIX,asn.au
@@ -348,6 +352,7 @@ payload:
   - DOMAIN-SUFFIX,org.uk
   - DOMAIN-SUFFIX,nasm.us
   - DOMAIN-SUFFIX,sudo.ws
+  # >> +.***
   - DOMAIN-SUFFIX,berkeley.edu
   - DOMAIN-SUFFIX,cmu.edu
   - DOMAIN-SUFFIX,columbia.edu
@@ -359,6 +364,7 @@ payload:
   - DOMAIN-SUFFIX,udel.edu
   - DOMAIN-SUFFIX,umd.edu
   - DOMAIN-SUFFIX,wayne.edu
+  # >> +.****
   - DOMAIN-SUFFIX,brianstafford.info
   - DOMAIN-SUFFIX,marples.name
   - DOMAIN-SUFFIX,mirror.surf

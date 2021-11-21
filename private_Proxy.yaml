@@ -1,33 +1,17 @@
 payload:
-  # >> (anki)
-  - DOMAIN-SUFFIX,ankiweb.net
-
-  # >> (github)
+  # >> +.com
+  - DOMAIN-SUFFIX,bluestacks.com # 蓝叠
+  - DOMAIN-SUFFIX,freenom.com # freenom
+  - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,githubmemory.com
-
-  # >> (freenom)
-  - DOMAIN-SUFFIX,freenom.com
-
-  # >> (telegram)
-  - DOMAIN-SUFFIX,tgstat.com
-  - DOMAIN-SUFFIX,tgchannels.org
-
-  # >> (etcher)
-  - DOMAIN-SUFFIX,balena.io
-
-  # >> (bluestacks)
-  - DOMAIN-SUFFIX,bluestacks.com
-
-  # >> (sharemouse)
-  - DOMAIN-SUFFIX,sharemouse.com
-
-  # >> (crystaldiskmark)
-  - DOMAIN-SUFFIX,xtom.com
- 
-  # >> (mudTv)
-  - DOMAIN-SUFFIX,mudvod.tv
-  - DOMAIN-SUFFIX,vod360.net
-  - DOMAIN-SUFFIX,saberfeedback.com
-
-  # >> (others)
   - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,sharemouse.com # sharemouse
+  - DOMAIN-SUFFIX,xtom.com # crystaldiskmark
+  - DOMAIN-SUFFIX,tgstat.com
+  # >> +.net
+  - DOMAIN-SUFFIX,ankiweb.net # anki
+  # >> +.org
+  - DOMAIN-SUFFIX,tgchannels.org
+  # >> +.**
+  - DOMAIN-SUFFIX,balena.io # balenaEtcher
+  - DOMAIN-SUFFIX,gitbook.io
