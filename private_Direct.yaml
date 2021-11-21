@@ -31,9 +31,9 @@ payload:
   - DOMAIN-SUFFIX,mypianku.li
 
   # >> (others)
-  - DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,jquery.com
-  - DOMAIN-SUFFIX,lencr.org
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,lencr.org
