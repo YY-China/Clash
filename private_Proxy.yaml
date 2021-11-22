@@ -2,6 +2,7 @@ payload:
   # >> +.com
   - DOMAIN-SUFFIX,bluestacks.com # 蓝叠
   - DOMAIN-SUFFIX,docker.com # docker
+  - DOMAIN-SUFFIX,drivereasy.com # drivereasy
   - DOMAIN-SUFFIX,freenom.com # freenom
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,githubmemory.com
