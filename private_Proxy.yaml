@@ -1,6 +1,7 @@
 payload:
   # >> +.com
   - DOMAIN-SUFFIX,bluestacks.com # 蓝叠
+  - DOMAIN-SUFFIX,docker.com # docker
   - DOMAIN-SUFFIX,freenom.com # freenom
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,githubmemory.com
@@ -14,4 +15,5 @@ payload:
   - DOMAIN-SUFFIX,tgchannels.org
   # >> +.**
   - DOMAIN-SUFFIX,balena.io # balenaEtcher
+  - DOMAIN-SUFFIX,docker.io # docker
   - DOMAIN-SUFFIX,gitbook.io

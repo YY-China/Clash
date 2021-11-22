@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com # cloudflare
   - DOMAIN-SUFFIX,cloudflare-dns.com # cloudflare
   - DOMAIN-SUFFIX,digicert.com # digicert
-  - DOMAIN-SUFFIX,docker.com # docker
   - DOMAIN-SUFFIX,hcaptcha.com # spartan
   - DOMAIN-SUFFIX,jquery.com # jquery
   - DOMAIN-SUFFIX,livechatinc.com # spartan
@@ -20,7 +19,6 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org # 油猴脚本
   - DOMAIN-SUFFIX,lencr.org
   # >> +.**
-  - DOMAIN-SUFFIX,docker.io # docker
   - DOMAIN-SUFFIX,mypianku.li # 片库网
   # >> +.****
   - DOMAIN-SUFFIX,stripe.network # spartan
