@@ -315,6 +315,7 @@ payload:
   - DOMAIN-SUFFIX,pm2.io
   - DOMAIN-SUFFIX,qt.io
   - DOMAIN-SUFFIX,redis.io
+  - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,sourceforge.io
   - DOMAIN-SUFFIX,strace.io
   - DOMAIN-SUFFIX,ac.jp
