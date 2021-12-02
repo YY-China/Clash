@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,google.cn
   # >> +.com
   - DOMAIN-SUFFIX,bluestacks.com # 蓝叠
   - DOMAIN-SUFFIX,docker.com # docker
