@@ -1,0 +1,29 @@
+payload:
+  # >> Vps
+  - DOMAIN-KEYWORD,xiaoyangzai.
+  - DOMAIN-SUFFIX,hcaptcha.com # spartan
+  - DOMAIN-SUFFIX,livechatinc.com # spartan
+  - DOMAIN-SUFFIX,stripe.com # spartan
+  - DOMAIN-SUFFIX,stripe.network # spartan
+  - DOMAIN-SUFFIX,spartanhost.net # spartan
+  # >> Cloudflare
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  # >> Docker
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  # >> Tampermonkey
+  - DOMAIN-SUFFIX,tampermonkey.net
+  - DOMAIN-SUFFIX,greasyfork.org
+  # >> Yandex
+  - DOMAIN-SUFFIX,yandex.net
+  # >> some Websites
+  - DOMAIN-SUFFIX,mypianku.net # 片库网
+  - DOMAIN-SUFFIX,mypianku.li # 片库网
+  # >> Miscellaneous
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,lencr.org

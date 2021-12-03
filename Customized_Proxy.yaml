@@ -1,4 +1,20 @@
 payload:
+  # >> Google
+  - DOMAIN,services.googleapis.cn
+  - DOMAIN-SUFFIX,google.cn
+  - DOMAIN-SUFFIX,googletagmanager.com
+  # >> Github
+  - DOMAIN-SUFFIX,githubmemory.com
+  # >> Telegram
+  - DOMAIN-SUFFIX,tgstat.com
+  - DOMAIN-SUFFIX,tgchannels.org
+  # >> Softwares
+  - DOMAIN-SUFFIX,drivereasy.com # drivereasy
+  - DOMAIN-SUFFIX,freenom.com # freenom
+  - DOMAIN-SUFFIX,xtom.com # crystaldiskmark
+  - DOMAIN-SUFFIX,bluestacks.com # bluestack
+  - DOMAIN-SUFFIX,sharemouse.com # sharemouse
+  # >> Porn
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,akabebe.com
   - DOMAIN-SUFFIX,atzekromchan.com
