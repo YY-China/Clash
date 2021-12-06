@@ -9,9 +9,6 @@ payload:
   # >> Cloudflare
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
-  # >> Docker
-  - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,docker.io
   # >> Tampermonkey
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,greasyfork.org

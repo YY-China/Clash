@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,googletagmanager.com
   # >> Github
   - DOMAIN-SUFFIX,githubmemory.com
+  # >> Docker
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,snapcraft.io
+  - DOMAIN-SUFFIX,snapcraftcontent.com
   # >> Telegram
   - DOMAIN-SUFFIX,tgstat.com
   - DOMAIN-SUFFIX,tgchannels.org
