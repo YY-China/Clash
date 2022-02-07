@@ -269,6 +269,7 @@ payload:
   - DOMAIN-SUFFIX,skoll.ca
   - DOMAIN-SUFFIX,uwaterloo.ca
   - DOMAIN-SUFFIX,noping.cc
+  - DOMAIN-SUFFIX,oetiker.ch
   - DOMAIN-SUFFIX,insacom.cl
   - DOMAIN-SUFFIX,firestorm.cx
   - DOMAIN-SUFFIX,luffy.cx
@@ -312,6 +313,7 @@ payload:
   - DOMAIN-SUFFIX,znc.in
   - DOMAIN-SUFFIX,combinatronics.io
   - DOMAIN-SUFFIX,gitlab.io
+  - DOMAIN-SUFFIX,goproxy.io
   - DOMAIN-SUFFIX,pm2.io
   - DOMAIN-SUFFIX,qt.io
   - DOMAIN-SUFFIX,redis.io

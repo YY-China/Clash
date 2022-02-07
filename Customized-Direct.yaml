@@ -12,6 +12,8 @@ payload:
   # >> Tampermonkey
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,greasyfork.org
+  # >> Apple
+  - DOMAIN-SUFFIX,apple.com
   # >> Yandex
   - DOMAIN-SUFFIX,yandex.net
   # >> some Websites
