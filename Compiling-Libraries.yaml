@@ -90,6 +90,7 @@ payload:
   - DOMAIN-SUFFIX,srcbox.net
   - DOMAIN-SUFFIX,syringanetworks.net
   - DOMAIN-SUFFIX,thewalter.net
+  - DOMAIN-SUFFIX,tnahosting.net
   - DOMAIN-SUFFIX,ubuntu.net
   - DOMAIN-SUFFIX,zlib.net
   # >> +.org
