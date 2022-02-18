@@ -2,6 +2,7 @@ payload:
   # >> +.com
   - DOMAIN-SUFFIX,adiscon.com
   - DOMAIN-SUFFIX,appspot.com
+  - DOMAIN-SUFFIX,armbian.com
   - DOMAIN-SUFFIX,askapache.com
   - DOMAIN-SUFFIX,astron.com
   - DOMAIN-SUFFIX,bintray.com
@@ -140,6 +141,7 @@ payload:
   - DOMAIN-SUFFIX,freebsd.org
   - DOMAIN-SUFFIX,freeswitch.org
   - DOMAIN-SUFFIX,fukuchi.org
+  - DOMAIN-SUFFIX,fwupd.org
   - DOMAIN-SUFFIX,gentoo.org
   - DOMAIN-SUFFIX,gmplib.org
   - DOMAIN-SUFFIX,gnome.org
@@ -368,6 +370,7 @@ payload:
   - DOMAIN-SUFFIX,umd.edu
   - DOMAIN-SUFFIX,wayne.edu
   # >> +.****
+  - DOMAIN-SUFFIX,aptly.info
   - DOMAIN-SUFFIX,brianstafford.info
   - DOMAIN-SUFFIX,marples.name
   - DOMAIN-SUFFIX,mirror.surf
