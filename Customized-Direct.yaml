@@ -16,13 +16,14 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   # >> Yandex
   - DOMAIN-SUFFIX,yandex.net
-  # >> some Websites
-  - DOMAIN-SUFFIX,mypianku.net # 片库网
-  - DOMAIN-SUFFIX,mypianku.li # 片库网
   # >> Miscellaneous
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,jquery.com
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,lencr.org
+  - DOMAIN-SUFFIX,mypianku.li # 片库网
+  - DOMAIN-SUFFIX,mypianku.net # 片库网
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN,cn.archive.ubuntu.com,DIRECT
