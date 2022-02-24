@@ -105,6 +105,7 @@ payload:
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,artfiles.org
   - DOMAIN-SUFFIX,asterisk.org
+  - DOMAIN-SUFFIX,auroradev.org
   - DOMAIN-SUFFIX,avahi.org
   - DOMAIN-SUFFIX,bitbucket.org
   - DOMAIN-SUFFIX,bitlbee.org
