@@ -42,6 +42,8 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,portaudio.com
   - DOMAIN-SUFFIX,powerdns.com
+  - DOMAIN-SUFFIX,quovadisglobal.com
+  - DOMAIN-SUFFIX,quovadisoffshore.com
   - DOMAIN-SUFFIX,rarlab.com
   - DOMAIN-SUFFIX,redhat.com
   - DOMAIN-SUFFIX,rsyslog.com
