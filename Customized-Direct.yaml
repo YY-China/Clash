@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,mypianku.li # 片库网
