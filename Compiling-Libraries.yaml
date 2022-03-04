@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,askapache.com
   - DOMAIN-SUFFIX,astron.com
   - DOMAIN-SUFFIX,bintray.com
+  - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,candelatech.com
   - DOMAIN-SUFFIX,canonical.com
   - DOMAIN-SUFFIX,cihar.com
