@@ -18,6 +18,9 @@ payload:
   - DOMAIN-SUFFIX,intel.com
   # >> Yandex
   - DOMAIN-SUFFIX,yandex.net
+  # >> Nas
+  - DOMAIN-SUFFIX,qnap.com
+  - DOMAIN-SUFFIX,synology.com
   # >> Miscellaneous
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,cloudfront.net
