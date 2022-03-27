@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,googletagmanager.com
   # >> Github
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,githubmemory.com
   # >> Docker
   - DOMAIN-SUFFIX,docker.com
