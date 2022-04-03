@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,snapcraftcontent.com
+  # >> Twrp
+  - DOMAIN-SUFFIX,twrp.me
   # >> Telegram
   - DOMAIN-SUFFIX,tgstat.com
   - DOMAIN-SUFFIX,tgchannels.org
