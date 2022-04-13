@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,dev.to # dev-community
   - DOMAIN-SUFFIX,tgstat.com # telegram
   - DOMAIN-SUFFIX,tgchannels.org # telegram
+  - DOMAIN-SUFFIX,global.download.synology.com # telegram
   - DOMAIN-SUFFIX,freenom.com # freenom
   - DOMAIN-SUFFIX,xtom.com # crystaldiskmark
   - DOMAIN-SUFFIX,notepad-plus-plus.org # notepad++
