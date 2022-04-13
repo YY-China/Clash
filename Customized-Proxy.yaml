@@ -12,12 +12,12 @@ payload:
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,snapcraftcontent.com
   # >> ......
+  - DOMAIN,global.download.synology.com # synology
   - DOMAIN-SUFFIX,drivereasy.com # drivereasy
   - DOMAIN-SUFFIX,twrp.me # twrp
   - DOMAIN-SUFFIX,dev.to # dev-community
   - DOMAIN-SUFFIX,tgstat.com # telegram
   - DOMAIN-SUFFIX,tgchannels.org # telegram
-  - DOMAIN-SUFFIX,global.download.synology.com # telegram
   - DOMAIN-SUFFIX,freenom.com # freenom
   - DOMAIN-SUFFIX,xtom.com # crystaldiskmark
   - DOMAIN-SUFFIX,notepad-plus-plus.org # notepad++
