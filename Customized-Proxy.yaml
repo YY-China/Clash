@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,snapcraftcontent.com
   # >> ......
   - DOMAIN,global.download.synology.com # synology
+  - DOMAIN-SUFFIX,openwrt.club # openwrt
   - DOMAIN-SUFFIX,drivereasy.com # drivereasy
   - DOMAIN-SUFFIX,twrp.me # twrp
   - DOMAIN-SUFFIX,dev.to # dev-community
