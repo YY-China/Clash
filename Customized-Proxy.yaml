@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,snapcraftcontent.com
+  # >> CDN
+  - DOMAIN-SUFFIX,jsdelivr.net
   # >> ......
   - DOMAIN,global.download.synology.com # synology
   - DOMAIN-SUFFIX,openwrt.club # openwrt
@@ -24,7 +26,6 @@ payload:
   - DOMAIN-SUFFIX,notepad-plus-plus.org # notepad++
   - DOMAIN-SUFFIX,bluestacks.com # bluestack
   - DOMAIN-SUFFIX,sharemouse.com # sharemouse
-
   # >> Porn
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,akabebe.com
