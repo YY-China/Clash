@@ -15,6 +15,7 @@ payload:
   - DOMAIN,global.download.synology.com # synology
   - DOMAIN-SUFFIX,openwrt.club # openwrt
   - DOMAIN-SUFFIX,drivereasy.com # drivereasy
+  - DOMAIN-SUFFIX,digitaloceanspaces.com # portainer
   - DOMAIN-SUFFIX,f-droid.org # AdAway
   - DOMAIN-SUFFIX,twrp.me # twrp
   - DOMAIN-SUFFIX,dev.to # dev-community
