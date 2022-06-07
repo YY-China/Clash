@@ -344,6 +344,7 @@ payload:
   - DOMAIN-SUFFIX,dropbear.nl
   - DOMAIN-SUFFIX,nlnetlabs.nl
   - DOMAIN-SUFFIX,nluug.nl
+  - DOMAIN-SUFFIX,performanceservers.nl
   - DOMAIN-SUFFIX,xs4all.nl
   - DOMAIN-SUFFIX,yorhel.nl
   - DOMAIN-SUFFIX,inet.no
