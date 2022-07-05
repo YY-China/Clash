@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,notepad-plus-plus.org # notepad++
   - DOMAIN-SUFFIX,bluestacks.com # bluestack
   - DOMAIN-SUFFIX,sharemouse.com # sharemouse
+  - DOMAIN-SUFFIX,vivaldi.com # vivaldi
   # >> Porn
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,akabebe.com
