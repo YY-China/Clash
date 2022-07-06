@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,drivereasy.com # drivereasy
   - DOMAIN-SUFFIX,digitaloceanspaces.com # portainer
   - DOMAIN-SUFFIX,f-droid.org # AdAway
+  - DOMAIN-SUFFIX,rockmods.net # APKs-Mods
+  - DOMAIN-SUFFIX,mediafire.com # NetworkDisk
   - DOMAIN-SUFFIX,twrp.me # twrp
   - DOMAIN-SUFFIX,dev.to # dev-community
   - DOMAIN-SUFFIX,tgstat.com # telegram
