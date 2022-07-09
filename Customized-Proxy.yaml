@@ -3,6 +3,10 @@ payload:
   - DOMAIN,services.googleapis.cn
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,googletagmanager.com
+  # >> Intel
+  - DOMAIN-SUFFIX,intel.com
+  - DOMAIN-SUFFIX,coveo.com
+  - DOMAIN-SUFFIX,demdex.net
   # >> Github
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,githubmemory.com
@@ -25,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,tgchannels.org # telegram
   - DOMAIN-SUFFIX,freenom.com # freenom
   - DOMAIN-SUFFIX,xtom.com # crystaldiskmark
+  - DOMAIN-SUFFIX,startallback.com # startisback.
   - DOMAIN-SUFFIX,notepad-plus-plus.org # notepad++
   - DOMAIN-SUFFIX,bluestacks.com # bluestack
   - DOMAIN-SUFFIX,sharemouse.com # sharemouse
