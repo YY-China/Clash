@@ -34,4 +34,5 @@ payload:
   - DOMAIN-SUFFIX,mypianku.net # 片库网
   - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,segment.io
-  - DOMAIN,cn.archive.ubuntu.com,DIRECT
+  - DOMAIN,cn.gravatar.com
+  - DOMAIN,cn.archive.ubuntu.com
