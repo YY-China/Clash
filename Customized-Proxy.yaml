@@ -15,25 +15,42 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,snapcraftcontent.com
-  # >> ......
-  - DOMAIN,global.download.synology.com # synology
-  - DOMAIN-SUFFIX,openwrt.club # openwrt
-  - DOMAIN-SUFFIX,drivereasy.com # drivereasy
-  - DOMAIN-SUFFIX,digitaloceanspaces.com # portainer
-  - DOMAIN-SUFFIX,f-droid.org # AdAway
-  - DOMAIN-SUFFIX,rockmods.net # APKs-Mods
-  - DOMAIN-SUFFIX,mediafire.com # NetworkDisk
-  - DOMAIN-SUFFIX,twrp.me # twrp
-  - DOMAIN-SUFFIX,dev.to # dev-community
-  - DOMAIN-SUFFIX,tgstat.com # telegram
-  - DOMAIN-SUFFIX,tgchannels.org # telegram
-  - DOMAIN-SUFFIX,freenom.com # freenom
-  - DOMAIN-SUFFIX,xtom.com # crystaldiskmark
-  - DOMAIN-SUFFIX,startallback.com # startisback.
-  - DOMAIN-SUFFIX,notepad-plus-plus.org # notepad++
-  - DOMAIN-SUFFIX,bluestacks.com # bluestack
-  - DOMAIN-SUFFIX,sharemouse.com # sharemouse
-  - DOMAIN-SUFFIX,vivaldi.com # vivaldi
+  # >> Portainer
+  - DOMAIN-SUFFIX,digitaloceanspaces.com
+  # >> OpenWrt
+  - DOMAIN-SUFFIX,openwrt.club
+  # >> Synology
+  - DOMAIN,global.download.synology.com
+  # >> Twrp
+  - DOMAIN-SUFFIX,twrp.me
+  # >> AdAway
+  - DOMAIN-SUFFIX,f-droid.org
+  # >> APKs-Mods
+  - DOMAIN-SUFFIX,rockmods.net
+  # >> DriverEasy
+  - DOMAIN-SUFFIX,drivereasy.com
+  # >> Freenom
+  - DOMAIN-SUFFIX,freenom.com
+  # >> Dev-Community
+  - DOMAIN-SUFFIX,dev.to
+  # >> Telegram
+  - DOMAIN-SUFFIX,tgstat.com
+  - DOMAIN-SUFFIX,tgchannels.org
+  # >> CrystalDisk
+  - DOMAIN-SUFFIX,xtom.com
+  - DOMAIN-SUFFIX,rwth-aachen.de
+  # >> NetworkDisk
+  - DOMAIN-SUFFIX,mediafire.com
+  # >> StartIsBack
+  - DOMAIN-SUFFIX,startallback.com
+  # >> Notepad++
+  - DOMAIN-SUFFIX,notepad-plus-plus.org
+  # >> ShareMouse
+  - DOMAIN-SUFFIX,sharemouse.com
+  # >> Bluestack
+  - DOMAIN-SUFFIX,bluestacks.com
+  # >> Vivaldi Browser
+  - DOMAIN-SUFFIX,vivaldi.com
   # >> Porn
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,akabebe.com
@@ -48,7 +65,6 @@ payload:
   - DOMAIN-SUFFIX,ff-05.com
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,fontawesome.com
-  - DOMAIN-SUFFIX,fvs.io
   - DOMAIN-SUFFIX,maomiav.com
   - DOMAIN-SUFFIX,motherlessmedia.com
   - DOMAIN-SUFFIX,mrdhan.com
