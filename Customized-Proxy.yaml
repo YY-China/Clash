@@ -24,6 +24,7 @@ payload:
   # >> Twrp
   - DOMAIN-SUFFIX,twrp.me
   # >> AdAway
+  - DOMAIN-SUFFIX,adaway.org
   - DOMAIN-SUFFIX,f-droid.org
   # >> APKs-Mods
   - DOMAIN-SUFFIX,rockmods.net
