@@ -23,6 +23,8 @@ payload:
   - DOMAIN,global.download.synology.com
   # >> Twrp
   - DOMAIN-SUFFIX,twrp.me
+  # >> OpenGapps
+  - DOMAIN-SUFFIX,opengapps.org
   # >> AdAway
   - DOMAIN-SUFFIX,adaway.org
   - DOMAIN-SUFFIX,f-droid.org
