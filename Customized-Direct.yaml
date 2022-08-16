@@ -1,6 +1,7 @@
 payload:
   # >> CN
   - DOMAIN-KEYWORD,.com.cn.
+  - DOMAIN-SUFFIX,.com.cn
   # >> CDN
   - DOMAIN-SUFFIX,ghproxy.com
   # >> Vps
