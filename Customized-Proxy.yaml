@@ -1,4 +1,8 @@
 payload:
+  # >> Speedtest
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,mapbox.com
+  - DOMAIN-SUFFIX,speed.cloudflare.com
   # >> Google
   - DOMAIN,services.googleapis.cn
   - DOMAIN-SUFFIX,google.cn

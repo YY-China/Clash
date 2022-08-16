@@ -1,7 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,fast.com
-  - DOMAIN-SUFFIX,mapbox.com
-  - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,speed.
   - DOMAIN-KEYWORD,speed0
