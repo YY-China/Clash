@@ -1,38 +1,13 @@
 payload:
-  - DOMAIN-KEYWORD,speedtest
-  - DOMAIN-KEYWORD,speed.
-  - DOMAIN-KEYWORD,speed0
-  - DOMAIN-KEYWORD,speed1
-  - DOMAIN-KEYWORD,speed2
-  - DOMAIN-KEYWORD,speed3
-  - DOMAIN-KEYWORD,speed4
-  - DOMAIN-KEYWORD,speed5
-  - DOMAIN-KEYWORD,speed6
-  - DOMAIN-KEYWORD,speed7
-  - DOMAIN-KEYWORD,speed8
-  - DOMAIN-KEYWORD,speed9
-  - DOMAIN-KEYWORD,speed-0
-  - DOMAIN-KEYWORD,speed-1
-  - DOMAIN-KEYWORD,speed-2
-  - DOMAIN-KEYWORD,speed-3
-  - DOMAIN-KEYWORD,speed-4
-  - DOMAIN-KEYWORD,speed-5
-  - DOMAIN-KEYWORD,speed-6
-  - DOMAIN-KEYWORD,speed-7
-  - DOMAIN-KEYWORD,speed-8
-  - DOMAIN-KEYWORD,speed-9
-  - DOMAIN-KEYWORD,ookla.
-  - DOMAIN-KEYWORD,ookla0
-  - DOMAIN-KEYWORD,ookla1
-  - DOMAIN-KEYWORD,ookla2
-  - DOMAIN-KEYWORD,ookla3
-  - DOMAIN-KEYWORD,ookla4
-  - DOMAIN-KEYWORD,ookla5
-  - DOMAIN-KEYWORD,ookla6
-  - DOMAIN-KEYWORD,ookla7
-  - DOMAIN-KEYWORD,ookla8
-  - DOMAIN-KEYWORD,ookla9
+  # >> IP
+  - IP-CIDR,74.85.229.3/32,no-resolve
+  - IP-CIDR,107.191.238.91/32,no-resolve
+  - IP-CIDR,189.203.155.90/32,no-resolve
+  - IP-CIDR,201.171.245.5/32,no-resolve
+  - IP-CIDR,201.174.128.70/32,no-resolve
+  # >> +.com
   - DOMAIN-SUFFIX,aberythmic.com
+  - DOMAIN-SUFFIX,avast.com
   - DOMAIN-SUFFIX,cabospeed.com
   - DOMAIN-SUFFIX,cdnst.net
   - DOMAIN-SUFFIX,charter.com
@@ -57,30 +32,36 @@ payload:
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,wvi.com
   - DOMAIN-SUFFIX,ziffstatic.com
+  # >> +.net
+  - DOMAIN-SUFFIX,as20055.net
   - DOMAIN-SUFFIX,as201971.net
   - DOMAIN-SUFFIX,atlanticmetro.net
   - DOMAIN-SUFFIX,binary.net
+  - DOMAIN-SUFFIX,centurylink.net
   - DOMAIN-SUFFIX,co-mo.net
   - DOMAIN-SUFFIX,comcast.net
   - DOMAIN-SUFFIX,fdcservers.net
   - DOMAIN-SUFFIX,midco.net
   - DOMAIN-SUFFIX,mwdata.net
   - DOMAIN-SUFFIX,nextlevel.net
+  - DOMAIN-SUFFIX,nitelusa.net
   - DOMAIN-SUFFIX,ortelco.net
   - DOMAIN-SUFFIX,puregig.net
   - DOMAIN-SUFFIX,rockisland.net
   - DOMAIN-SUFFIX,sitemexico.net
+  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,starlinkisp.net
+  - DOMAIN-SUFFIX,stvidtest.net
   - DOMAIN-SUFFIX,vicinnovations.net
   - DOMAIN-SUFFIX,whidbey.net
+  - DOMAIN-SUFFIX,wtsky.net
+  # >> +.org
   - DOMAIN-SUFFIX,nezperce.org
+  # >> +.**
   - DOMAIN-SUFFIX,basinbroadband.ca
   - DOMAIN-SUFFIX,bell.ca
   - DOMAIN-SUFFIX,juce.ca
   - DOMAIN-SUFFIX,nip.io
+  # >> +.***
   - DOMAIN-SUFFIX,uark.edu
   - DOMAIN-SUFFIX,bellevuewa.gov
-  - IP-CIDR,74.85.229.3/32,no-resolve
-  - IP-CIDR,189.203.155.90/32,no-resolve
-  - IP-CIDR,201.171.245.5/32,no-resolve
-  - IP-CIDR,201.174.128.70/32,no-resolve
