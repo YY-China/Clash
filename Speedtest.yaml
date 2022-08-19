@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,evidon.com
   - DOMAIN-SUFFIX,from-ks.com
   - DOMAIN-SUFFIX,gigglefiber.com
+  - DOMAIN-SUFFIX,geolinks.com
   - DOMAIN-SUFFIX,ifiber.com
   - DOMAIN-SUFFIX,janusnetworks.com
   - DOMAIN-SUFFIX,liberty-connect.com
@@ -30,9 +31,11 @@ payload:
   - DOMAIN-SUFFIX,swatco.com
   - DOMAIN-SUFFIX,tachus.com
   - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,wowrack.com
   - DOMAIN-SUFFIX,wvi.com
   - DOMAIN-SUFFIX,ziffstatic.com
   # >> +.net
+  - DOMAIN-SUFFIX,accretive-networks.net
   - DOMAIN-SUFFIX,as20055.net
   - DOMAIN-SUFFIX,as201971.net
   - DOMAIN-SUFFIX,atlanticmetro.net
@@ -40,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,centurylink.net
   - DOMAIN-SUFFIX,co-mo.net
   - DOMAIN-SUFFIX,comcast.net
+  - DOMAIN-SUFFIX,contabo.net
   - DOMAIN-SUFFIX,fdcservers.net
   - DOMAIN-SUFFIX,midco.net
   - DOMAIN-SUFFIX,mwdata.net
@@ -65,3 +69,4 @@ payload:
   # >> +.***
   - DOMAIN-SUFFIX,uark.edu
   - DOMAIN-SUFFIX,bellevuewa.gov
+  - DOMAIN-SUFFIX,misaka.one
