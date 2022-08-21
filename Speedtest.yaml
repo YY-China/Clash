@@ -12,66 +12,120 @@ payload:
   - IP-CIDR,216.202.203.188,no-resolve
   # >> +.com
   - DOMAIN-SUFFIX,aberythmic.com
+  - DOMAIN-SUFFIX,accessdg.com
+  - DOMAIN-SUFFIX,aebc.com
+  - DOMAIN-SUFFIX,astuteinternet.com
   - DOMAIN-SUFFIX,avast.com
+  - DOMAIN-SUFFIX,bluespan.com
   - DOMAIN-SUFFIX,cabospeed.com
-  - DOMAIN-SUFFIX,cdnst.net
+  - DOMAIN-SUFFIX,cet.com
   - DOMAIN-SUFFIX,charter.com
   - DOMAIN-SUFFIX,chtglobal.com
   - DOMAIN-SUFFIX,colton.com
+  - DOMAIN-SUFFIX,columbiainet.com
+  - DOMAIN-SUFFIX,crescommwifi.com
   - DOMAIN-SUFFIX,dedicontrol.com
+  - DOMAIN-SUFFIX,deltacable.com
   - DOMAIN-SUFFIX,diamondnetok.com
+  - DOMAIN-SUFFIX,e2ro.com
   - DOMAIN-SUFFIX,eastex.com
   - DOMAIN-SUFFIX,evidon.com
   - DOMAIN-SUFFIX,from-ks.com
-  - DOMAIN-SUFFIX,gigglefiber.com
   - DOMAIN-SUFFIX,geolinks.com
+  - DOMAIN-SUFFIX,gigglefiber.com
+  - DOMAIN-SUFFIX,gohilight.com
+  - DOMAIN-SUFFIX,gorge.net
   - DOMAIN-SUFFIX,ifiber.com
   - DOMAIN-SUFFIX,janusnetworks.com
   - DOMAIN-SUFFIX,liberty-connect.com
   - DOMAIN-SUFFIX,m5hosting.com
+  - DOMAIN-SUFFIX,mimo-connect.com
+  - DOMAIN-SUFFIX,minetfiber.com
   - DOMAIN-SUFFIX,netinformatik.com
+  - DOMAIN-SUFFIX,onlinenw.com
+  - DOMAIN-SUFFIX,peakinternet.com
   - DOMAIN-SUFFIX,pinncom.com
+  - DOMAIN-SUFFIX,pocketinet.com
+  - DOMAIN-SUFFIX,provisiondata.net
+  - DOMAIN-SUFFIX,rainierconnect.com
   - DOMAIN-SUFFIX,rconnects.com
+  - DOMAIN-SUFFIX,rogers.com
+  - DOMAIN-SUFFIX,sanjuancable.com
+  - DOMAIN-SUFFIX,shawcable.net
+  - DOMAIN-SUFFIX,sherwoodbroadband.com
   - DOMAIN-SUFFIX,surelinebroadband.com
   - DOMAIN-SUFFIX,swatco.com
   - DOMAIN-SUFFIX,tachus.com
+  - DOMAIN-SUFFIX,telus.com
   - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,viser.com
+  - DOMAIN-SUFFIX,wavebroadband.com
   - DOMAIN-SUFFIX,wowrack.com
+  - DOMAIN-SUFFIX,wtechlink.com
   - DOMAIN-SUFFIX,wvi.com
   - DOMAIN-SUFFIX,ziffstatic.com
   # >> +.net
   - DOMAIN-SUFFIX,accretive-networks.net
+  - DOMAIN-SUFFIX,alyrica.net
   - DOMAIN-SUFFIX,as20055.net
   - DOMAIN-SUFFIX,as201971.net
+  - DOMAIN-SUFFIX,as26370.net
   - DOMAIN-SUFFIX,atlanticmetro.net
+  - DOMAIN-SUFFIX,bc.net
   - DOMAIN-SUFFIX,binary.net
+  - DOMAIN-SUFFIX,cdnst.net
   - DOMAIN-SUFFIX,centurylink.net
+  - DOMAIN-SUFFIX,cloudsingularity.net
   - DOMAIN-SUFFIX,co-mo.net
   - DOMAIN-SUFFIX,comcast.net
   - DOMAIN-SUFFIX,contabo.net
+  - DOMAIN-SUFFIX,eaglecable.net
   - DOMAIN-SUFFIX,fdcservers.net
+  - DOMAIN-SUFFIX,fiberfi.net
+  - DOMAIN-SUFFIX,ifn.net
+  - DOMAIN-SUFFIX,integra.net
+  - DOMAIN-SUFFIX,localtel.net
+  - DOMAIN-SUFFIX,lsnetworks.net
   - DOMAIN-SUFFIX,midco.net
   - DOMAIN-SUFFIX,mwdata.net
+  - DOMAIN-SUFFIX,mycci.net
+  - DOMAIN-SUFFIX,net253.net
   - DOMAIN-SUFFIX,nextlevel.net
   - DOMAIN-SUFFIX,nitelusa.net
   - DOMAIN-SUFFIX,ortelco.net
+  - DOMAIN-SUFFIX,pnrcon.net
   - DOMAIN-SUFFIX,puregig.net
   - DOMAIN-SUFFIX,rockisland.net
+  - DOMAIN-SUFFIX,shawcable.net
   - DOMAIN-SUFFIX,sitemexico.net
+  - DOMAIN-SUFFIX,skywaywest.net
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,starlinkisp.net
   - DOMAIN-SUFFIX,stvidtest.net
   - DOMAIN-SUFFIX,vicinnovations.net
   - DOMAIN-SUFFIX,whidbey.net
   - DOMAIN-SUFFIX,wtsky.net
+  - DOMAIN-SUFFIX,wwest.net
+  - DOMAIN-SUFFIX,xytel.net
   # >> +.org
+  - DOMAIN-SUFFIX,cityofanacortes.org
   - DOMAIN-SUFFIX,nezperce.org
+  - DOMAIN-SUFFIX,sandynet.org
   # >> +.**
   - DOMAIN-SUFFIX,basinbroadband.ca
   - DOMAIN-SUFFIX,bell.ca
+  - DOMAIN-SUFFIX,frontiernetworks.ca
   - DOMAIN-SUFFIX,juce.ca
+  - DOMAIN-SUFFIX,ubc.ca
+  - DOMAIN-SUFFIX,unet.ca
   - DOMAIN-SUFFIX,nip.io
+  - DOMAIN-SUFFIX,ifiber.tv
   # >> +.***
+  - DOMAIN-SUFFIX,directlink.coop
+  - DOMAIN-SUFFIX,hrec.coop
+  - DOMAIN-SUFFIX,smta.coop
+  - DOMAIN-SUFFIX,gonzaga.edu
+  - DOMAIN-SUFFIX,ohsu.edu
   - DOMAIN-SUFFIX,uark.edu
   - DOMAIN-SUFFIX,bellevuewa.gov
   - DOMAIN-SUFFIX,misaka.one
