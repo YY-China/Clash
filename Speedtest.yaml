@@ -10,8 +10,8 @@ payload:
   - IP-CIDR,201.171.245.5/32,no-resolve
   - IP-CIDR,201.174.128.70/32,no-resolve
   - IP-CIDR,207.66.190.10/32,no-resolve
-  - IP-CIDR,216.176.187.138,no-resolve
-  - IP-CIDR,216.202.203.188,no-resolve
+  - IP-CIDR,216.176.187.138/32,no-resolve
+  - IP-CIDR,216.202.203.188/32,no-resolve
   # >> +.com
   - DOMAIN-SUFFIX,aberythmic.com
   - DOMAIN-SUFFIX,accessdg.com
@@ -49,7 +49,6 @@ payload:
   - DOMAIN-SUFFIX,hytekcomputers.com
   - DOMAIN-SUFFIX,ifiber.com
   - DOMAIN-SUFFIX,inlandcell.com
-  - DOMAIN-SUFFIX,intermax.network
   - DOMAIN-SUFFIX,itel.com
   - DOMAIN-SUFFIX,janusnetworks.com
   - DOMAIN-SUFFIX,liberty-connect.com
@@ -172,3 +171,5 @@ payload:
   - DOMAIN-SUFFIX,directlink.coop
   - DOMAIN-SUFFIX,hrec.coop
   - DOMAIN-SUFFIX,smta.coop
+  # >> +.**********
+  - DOMAIN-SUFFIX,intermax.network
