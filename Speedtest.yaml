@@ -1,7 +1,7 @@
 payload:
   # >> IP
-  - IP-CIDR,64.119.5.68,no-resolve
-  - IP-CIDR,69.72.28.30,no-resolve
+  - IP-CIDR,64.119.5.68/32,no-resolve
+  - IP-CIDR,69.72.28.30/32,no-resolve
   - IP-CIDR,74.85.229.3/32,no-resolve
   - IP-CIDR,107.191.238.91/32,no-resolve
   - IP-CIDR,189.203.155.90/32,no-resolve
