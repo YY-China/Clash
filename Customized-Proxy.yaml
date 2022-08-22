@@ -20,6 +20,9 @@ payload:
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,snapcraftcontent.com
   - DOMAIN-SUFFIX,containrrr.dev
+  # >> Ubuntu
+  - IP-CIDR,91.189.91.39/32,no-resolve
+  - IP-CIDR,185.125.190.36/32,no-resolve
   # >> Portainer
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   # >> OpenWrt
