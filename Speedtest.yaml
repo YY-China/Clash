@@ -5,15 +5,19 @@ payload:
   - IP-CIDR,69.72.28.30/32,no-resolve
   - IP-CIDR,64.191.64.254/32,no-resolve
   - IP-CIDR,69.241.104.42/32,no-resolve
+  - IP-CIDR,74.85.65.2/32,no-resolve
   - IP-CIDR,74.85.229.3/32,no-resolve
   - IP-CIDR,107.191.238.91/32,no-resolve
   - IP-CIDR,189.203.155.90/32,no-resolve
+  - IP-CIDR,192.30.89.85/32,no-resolve
   - IP-CIDR,198.204.208.180/32,no-resolve
   - IP-CIDR,198.204.208.181/32,no-resolve
   - IP-CIDR,201.171.245.5/32,no-resolve
   - IP-CIDR,201.174.128.70/32,no-resolve
+  - IP-CIDR,204.238.8.236/32,no-resolve
   - IP-CIDR,205.185.223.246/32,no-resolve
   - IP-CIDR,207.66.190.10/32,no-resolve
+  - IP-CIDR,208.84.220.137/32,no-resolve
   - IP-CIDR,216.176.187.138/32,no-resolve
   - IP-CIDR,216.202.203.188/32,no-resolve
   # >> +.com
