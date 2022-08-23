@@ -27,8 +27,6 @@ payload:
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   # >> OpenWrt
   - DOMAIN-SUFFIX,openwrt.club
-  # >> Synology
-  - DOMAIN,global.download.synology.com
   # >> Twrp
   - DOMAIN-SUFFIX,twrp.me
   # >> OpenGapps
