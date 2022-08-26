@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,lencr.org
+  - DOMAIN-SUFFIX,4ksj.com # 4K视界
   - DOMAIN-SUFFIX,mypianku.li # 片库网
   - DOMAIN-SUFFIX,mypianku.net # 片库网
   - DOMAIN-SUFFIX,nelreports.net
