@@ -14,6 +14,8 @@ payload:
   # >> Github
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,githubmemory.com
+  # >> Python
+  - DOMAIN-SUFFIX,pypa.io
   # >> Docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
