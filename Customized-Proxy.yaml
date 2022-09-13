@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,adaway.org
   - DOMAIN-SUFFIX,f-droid.org
   # >> APKs-Mods
+  - DOMAIN-SUFFIX,apkadmin.com
   - DOMAIN-SUFFIX,rockmods.net
   # >> DriverEasy
   - DOMAIN-SUFFIX,drivereasy.com
