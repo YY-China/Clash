@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,mmonit.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,muppetlabs.com
+  - DOMAIN-SUFFIX,navercorp.com
   - DOMAIN-SUFFIX,netgull.com
   - DOMAIN-SUFFIX,oberhumer.com
   - DOMAIN-SUFFIX,one.com
@@ -90,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,lstn.net
   - DOMAIN-SUFFIX,mozilla.net
   - DOMAIN-SUFFIX,nexcess.net
+  - DOMAIN-SUFFIX,on.net
   - DOMAIN-SUFFIX,openvpn.net
   - DOMAIN-SUFFIX,php.net
   - DOMAIN-SUFFIX,remlab.net
@@ -340,6 +342,7 @@ payload:
   - DOMAIN-SUFFIX,ac.jp
   - DOMAIN-SUFFIX,ad.jp
   - DOMAIN-SUFFIX,gr.jp
+  - DOMAIN-SUFFIX,kddilabs.jp
   - DOMAIN-SUFFIX,riken.jp
   - DOMAIN-SUFFIX,miyuru.lk
   - DOMAIN-SUFFIX,bsd.lv
@@ -381,6 +384,7 @@ payload:
   - DOMAIN-SUFFIX,harvard.edu
   - DOMAIN-SUFFIX,indstate.edu
   - DOMAIN-SUFFIX,mit.edu
+  - DOMAIN-SUFFIX,rit.edu
   - DOMAIN-SUFFIX,stanford.edu
   - DOMAIN-SUFFIX,udel.edu
   - DOMAIN-SUFFIX,umd.edu
