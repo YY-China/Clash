@@ -98,11 +98,13 @@ payload:
   - DOMAIN-SUFFIX,rutschle.net
   - DOMAIN-SUFFIX,savoirfairelinux.net
   - DOMAIN-SUFFIX,sf.net
+  - DOMAIN-SUFFIX,sonic.net
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,srcbox.net
   - DOMAIN-SUFFIX,syringanetworks.net
   - DOMAIN-SUFFIX,thewalter.net
   - DOMAIN-SUFFIX,tnahosting.net
+  - DOMAIN-SUFFIX,transip.net
   - DOMAIN-SUFFIX,ubuntu.net
   - DOMAIN-SUFFIX,zlib.net
   # >> +.org
