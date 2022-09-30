@@ -11,6 +11,14 @@ payload:
   - DOMAIN-SUFFIX,stripe.com # spartan
   - DOMAIN-SUFFIX,stripe.network # spartan
   - DOMAIN-SUFFIX,spartanhost.net # spartan
+  # >> Docker
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,snapcraft.io
+  - DOMAIN-SUFFIX,snapcraftcontent.com
+  - DOMAIN-SUFFIX,containrrr.dev
+  # >> Portainer
+  - DOMAIN-SUFFIX,digitaloceanspaces.com
   # >> Cloudflare
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
