@@ -276,6 +276,7 @@ payload:
   - DOMAIN-SUFFIX,zeromq.org
   # >> +.**
   - DOMAIN-SUFFIX,ac.at
+  - DOMAIN-SUFFIX,infraroot.at
   - DOMAIN-SUFFIX,pkern.at
   - DOMAIN-SUFFIX,asn.au
   - DOMAIN-SUFFIX,com.au
