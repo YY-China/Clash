@@ -23,6 +23,11 @@ payload:
 
 
 
+  # [Cloudflare-Speedtest]
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+
+
+
   # [*.2]
 
   # -> (*.ca)
@@ -75,6 +80,7 @@ payload:
   - DOMAIN-SUFFIX,e2ro.com
   - DOMAIN-SUFFIX,eastex.com
   - DOMAIN-SUFFIX,evidon.com
+  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,fireserve.com
   - DOMAIN-SUFFIX,fmtc.com
   - DOMAIN-SUFFIX,from-ks.com
@@ -91,6 +97,7 @@ payload:
   - DOMAIN-SUFFIX,liberty-connect.com
   - DOMAIN-SUFFIX,lisimsits.com
   - DOMAIN-SUFFIX,m5hosting.com
+  - DOMAIN-SUFFIX,mapbox.com
   - DOMAIN-SUFFIX,mimo-connect.com
   - DOMAIN-SUFFIX,minetfiber.com
   - DOMAIN-SUFFIX,mt-opticom.com
