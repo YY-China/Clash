@@ -1,10 +1,183 @@
 payload:
+  # [*.2]
 
-  # >> Synology
-  - DOMAIN,global.download.synology.com
+  # -> (*.at)
+  - DOMAIN-SUFFIX,ac.at
+  - DOMAIN-SUFFIX,infraroot.at
+  - DOMAIN-SUFFIX,pkern.at
+
+  # -> (*.au)
+  - DOMAIN-SUFFIX,asn.au
+  - DOMAIN-SUFFIX,com.au
+  - DOMAIN-SUFFIX,edu.au
+
+  # -> (*.br)
+  - DOMAIN-SUFFIX,puc-rio.br
+
+  # -> (*.ca)
+  - DOMAIN-SUFFIX,anstey.ca
+  - DOMAIN-SUFFIX,bc.ca
+  - DOMAIN-SUFFIX,motd.ca
+  - DOMAIN-SUFFIX,muug.ca
+  - DOMAIN-SUFFIX,skoll.ca
+  - DOMAIN-SUFFIX,uwaterloo.ca
+
+  # -> (*.cc)
+  - DOMAIN-SUFFIX,noping.cc
+
+  # -> (*.ch)
+  - DOMAIN-SUFFIX,oetiker.ch
+
+  # -> (*.cl)
+  - DOMAIN-SUFFIX,insacom.cl
+
+  # -> (*.cx)
+  - DOMAIN-SUFFIX,firestorm.cx
+  - DOMAIN-SUFFIX,luffy.cx
+
+  # -> (*.cz)
+  - DOMAIN-SUFFIX,muni.cz
+  - DOMAIN-SUFFIX,network.cz
+  - DOMAIN-SUFFIX,nic.cz
+
+  # -> (*.de)
+  - DOMAIN-SUFFIX,0pointer.de
+  - DOMAIN-SUFFIX,daemonizer.de
+  - DOMAIN-SUFFIX,denx.de
+  - DOMAIN-SUFFIX,dfn.de
+  - DOMAIN-SUFFIX,dogado.de
+  - DOMAIN-SUFFIX,draisberghof.de
+  - DOMAIN-SUFFIX,fefe.de
+  - DOMAIN-SUFFIX,gwdg.de
+  - DOMAIN-SUFFIX,inai.de
+  - DOMAIN-SUFFIX,marlam.de
+  - DOMAIN-SUFFIX,netcologne.de
+  - DOMAIN-SUFFIX,ohse.de
+  - DOMAIN-SUFFIX,schmorp.de
+  - DOMAIN-SUFFIX,spline.de
+  - DOMAIN-SUFFIX,tu-bs.de
+  - DOMAIN-SUFFIX,uni-kl.de
+  - DOMAIN-SUFFIX,uxnr.de
+
+  # -> (*.dk)
+  - DOMAIN-SUFFIX,kernel.dk
+  - DOMAIN-SUFFIX,safe-con.dk
+  - DOMAIN-SUFFIX,thrysoee.dk
+
+  # -> (*.eu)
+  - DOMAIN-SUFFIX,12z.eu
+  - DOMAIN-SUFFIX,cyberbits.eu
+
+  # -> (*.fi)
+  - DOMAIN-SUFFIX,foobar.fi
+  - DOMAIN-SUFFIX,funet.fi
+  - DOMAIN-SUFFIX,mbnet.fi
+  - DOMAIN-SUFFIX,w1.fi
+
+  # -> (*.fr)
+  - DOMAIN-SUFFIX,apdu.fr
+  - DOMAIN-SUFFIX,cnrs.fr
+  - DOMAIN-SUFFIX,free.fr
+  - DOMAIN-SUFFIX,irif.fr
+  - DOMAIN-SUFFIX,jussieu.fr
+  - DOMAIN-SUFFIX,pagesperso-orange.fr
+  - DOMAIN-SUFFIX,univ-paris-diderot.fr
+
+  # -> (*.ie)
+  - DOMAIN-SUFFIX,heanet.ie
+
+  # -> (*.im)
+  - DOMAIN-SUFFIX,prosody.im
+
+  # -> (*.in)
+  - DOMAIN-SUFFIX,znc.in
+
+  # -> (*.io)
+  - DOMAIN-SUFFIX,airframes.io
+  - DOMAIN-SUFFIX,combinatronics.io
+  - DOMAIN-SUFFIX,gitlab.io
+  - DOMAIN-SUFFIX,goproxy.io
+  - DOMAIN-SUFFIX,pm2.io
+  - DOMAIN-SUFFIX,qt.io
+  - DOMAIN-SUFFIX,redis.io
+  - DOMAIN-SUFFIX,snapcraft.io
+  - DOMAIN-SUFFIX,sourceforge.io
+  - DOMAIN-SUFFIX,strace.io
+
+  # -> (*.jp)
+  - DOMAIN-SUFFIX,ac.jp
+  - DOMAIN-SUFFIX,ad.jp
+  - DOMAIN-SUFFIX,gr.jp
+  - DOMAIN-SUFFIX,kddilabs.jp
+  - DOMAIN-SUFFIX,riken.jp
+
+  # -> (*.lk)
+  - DOMAIN-SUFFIX,miyuru.lk
+
+  # -> (*.lv)
+  - DOMAIN-SUFFIX,bsd.lv
+  - DOMAIN-SUFFIX,hosting.lv
+
+  # -> (*.me)
+  - DOMAIN-SUFFIX,johnriley.me
+
+  # -> (*.md)
+  - DOMAIN-SUFFIX,ihost.md
+
+  # -> (*.nl)
+  - DOMAIN-SUFFIX,atoptool.nl
+  - DOMAIN-SUFFIX,bit.nl
+  - DOMAIN-SUFFIX,bitwizard.nl
+  - DOMAIN-SUFFIX,dropbear.nl
+  - DOMAIN-SUFFIX,nlnetlabs.nl
+  - DOMAIN-SUFFIX,nluug.nl
+  - DOMAIN-SUFFIX,performanceservers.nl
+  - DOMAIN-SUFFIX,xs4all.nl
+  - DOMAIN-SUFFIX,yorhel.nl
+
+  # -> (*.no)
+  - DOMAIN-SUFFIX,inet.no
+  - DOMAIN-SUFFIX,uib.no
+
+  # -> (*.nu)
+  - DOMAIN-SUFFIX,siag.nu
+
+  # -> (*.nz)
+  - DOMAIN-SUFFIX,mega.nz
+
+  # -> (*.pt)
+  - DOMAIN-SUFFIX,up.pt
+
+  # -> (*.ro)
+  - DOMAIN-SUFFIX,null.ro
+
+  # -> (*.ru)
+  - DOMAIN-SUFFIX,corpit.ru
+
+  # -> (*.se)
+  - DOMAIN-SUFFIX,curl.se
+  - DOMAIN-SUFFIX,haxx.se
+  - DOMAIN-SUFFIX,kryo.se
+  - DOMAIN-SUFFIX,liu.se
+  - DOMAIN-SUFFIX,sunet.se
+  - DOMAIN-SUFFIX,umu.se
+
+  # -> (*.uk)
+  - DOMAIN-SUFFIX,ac.uk
+  - DOMAIN-SUFFIX,co.uk
+  - DOMAIN-SUFFIX,org.uk
+
+  # -> (*.us)
+  - DOMAIN-SUFFIX,nasm.us
+
+  # -> (*.ws)
+  - DOMAIN-SUFFIX,sudo.ws
 
 
-  # >> +.com
+
+  # [*.3]
+
+  # -> (*.com)
   - DOMAIN-SUFFIX,adiscon.com
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,armbian.com
@@ -66,7 +239,22 @@ payload:
   - DOMAIN-SUFFIX,yubico.com
   - DOMAIN-SUFFIX,zabbix.com
   - DOMAIN-SUFFIX,zx2c4.com
-  # >> +.net
+
+  # -> (*.edu)
+  - DOMAIN-SUFFIX,berkeley.edu
+  - DOMAIN-SUFFIX,cmu.edu
+  - DOMAIN-SUFFIX,columbia.edu
+  - DOMAIN-SUFFIX,csuohio.edu
+  - DOMAIN-SUFFIX,harvard.edu
+  - DOMAIN-SUFFIX,indstate.edu
+  - DOMAIN-SUFFIX,mit.edu
+  - DOMAIN-SUFFIX,rit.edu
+  - DOMAIN-SUFFIX,stanford.edu
+  - DOMAIN-SUFFIX,udel.edu
+  - DOMAIN-SUFFIX,umd.edu
+  - DOMAIN-SUFFIX,wayne.edu
+
+  # -> (*.net)
   - DOMAIN-SUFFIX,augeas.net
   - DOMAIN-SUFFIX,debian.net
   - DOMAIN-SUFFIX,buildroot.net
@@ -107,7 +295,8 @@ payload:
   - DOMAIN-SUFFIX,transip.net
   - DOMAIN-SUFFIX,ubuntu.net
   - DOMAIN-SUFFIX,zlib.net
-  # >> +.org
+
+  # -> (*.org)
   - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,2f30.org
   - DOMAIN-SUFFIX,acpica.org
@@ -274,127 +463,20 @@ payload:
   - DOMAIN-SUFFIX,xiph.org
   - DOMAIN-SUFFIX,xmlsoft.org
   - DOMAIN-SUFFIX,zeromq.org
-  # >> +.**
-  - DOMAIN-SUFFIX,ac.at
-  - DOMAIN-SUFFIX,infraroot.at
-  - DOMAIN-SUFFIX,pkern.at
-  - DOMAIN-SUFFIX,asn.au
-  - DOMAIN-SUFFIX,com.au
-  - DOMAIN-SUFFIX,edu.au
-  - DOMAIN-SUFFIX,puc-rio.br
-  - DOMAIN-SUFFIX,anstey.ca
-  - DOMAIN-SUFFIX,bc.ca
-  - DOMAIN-SUFFIX,motd.ca
-  - DOMAIN-SUFFIX,muug.ca
-  - DOMAIN-SUFFIX,skoll.ca
-  - DOMAIN-SUFFIX,uwaterloo.ca
-  - DOMAIN-SUFFIX,noping.cc
-  - DOMAIN-SUFFIX,oetiker.ch
-  - DOMAIN-SUFFIX,insacom.cl
-  - DOMAIN-SUFFIX,firestorm.cx
-  - DOMAIN-SUFFIX,luffy.cx
-  - DOMAIN-SUFFIX,muni.cz
-  - DOMAIN-SUFFIX,network.cz
-  - DOMAIN-SUFFIX,nic.cz
-  - DOMAIN-SUFFIX,0pointer.de
-  - DOMAIN-SUFFIX,daemonizer.de
-  - DOMAIN-SUFFIX,denx.de
-  - DOMAIN-SUFFIX,dfn.de
-  - DOMAIN-SUFFIX,dogado.de
-  - DOMAIN-SUFFIX,draisberghof.de
-  - DOMAIN-SUFFIX,fefe.de
-  - DOMAIN-SUFFIX,gwdg.de
-  - DOMAIN-SUFFIX,inai.de
-  - DOMAIN-SUFFIX,marlam.de
-  - DOMAIN-SUFFIX,netcologne.de
-  - DOMAIN-SUFFIX,ohse.de
-  - DOMAIN-SUFFIX,schmorp.de
-  - DOMAIN-SUFFIX,spline.de
-  - DOMAIN-SUFFIX,tu-bs.de
-  - DOMAIN-SUFFIX,uni-kl.de
-  - DOMAIN-SUFFIX,uxnr.de
-  - DOMAIN-SUFFIX,kernel.dk
-  - DOMAIN-SUFFIX,safe-con.dk
-  - DOMAIN-SUFFIX,thrysoee.dk
-  - DOMAIN-SUFFIX,12z.eu
-  - DOMAIN-SUFFIX,cyberbits.eu
-  - DOMAIN-SUFFIX,foobar.fi
-  - DOMAIN-SUFFIX,funet.fi
-  - DOMAIN-SUFFIX,mbnet.fi
-  - DOMAIN-SUFFIX,w1.fi
-  - DOMAIN-SUFFIX,apdu.fr
-  - DOMAIN-SUFFIX,cnrs.fr
-  - DOMAIN-SUFFIX,free.fr
-  - DOMAIN-SUFFIX,irif.fr
-  - DOMAIN-SUFFIX,jussieu.fr
-  - DOMAIN-SUFFIX,pagesperso-orange.fr
-  - DOMAIN-SUFFIX,univ-paris-diderot.fr
-  - DOMAIN-SUFFIX,heanet.ie
-  - DOMAIN-SUFFIX,prosody.im
-  - DOMAIN-SUFFIX,znc.in
-  - DOMAIN-SUFFIX,airframes.io
-  - DOMAIN-SUFFIX,combinatronics.io
-  - DOMAIN-SUFFIX,gitlab.io
-  - DOMAIN-SUFFIX,goproxy.io
-  - DOMAIN-SUFFIX,pm2.io
-  - DOMAIN-SUFFIX,qt.io
-  - DOMAIN-SUFFIX,redis.io
-  - DOMAIN-SUFFIX,snapcraft.io
-  - DOMAIN-SUFFIX,sourceforge.io
-  - DOMAIN-SUFFIX,strace.io
-  - DOMAIN-SUFFIX,ac.jp
-  - DOMAIN-SUFFIX,ad.jp
-  - DOMAIN-SUFFIX,gr.jp
-  - DOMAIN-SUFFIX,kddilabs.jp
-  - DOMAIN-SUFFIX,riken.jp
-  - DOMAIN-SUFFIX,miyuru.lk
-  - DOMAIN-SUFFIX,bsd.lv
-  - DOMAIN-SUFFIX,hosting.lv
-  - DOMAIN-SUFFIX,johnriley.me
-  - DOMAIN-SUFFIX,ihost.md
-  - DOMAIN-SUFFIX,atoptool.nl
-  - DOMAIN-SUFFIX,bit.nl
-  - DOMAIN-SUFFIX,bitwizard.nl
-  - DOMAIN-SUFFIX,dropbear.nl
-  - DOMAIN-SUFFIX,nlnetlabs.nl
-  - DOMAIN-SUFFIX,nluug.nl
-  - DOMAIN-SUFFIX,performanceservers.nl
-  - DOMAIN-SUFFIX,xs4all.nl
-  - DOMAIN-SUFFIX,yorhel.nl
-  - DOMAIN-SUFFIX,inet.no
-  - DOMAIN-SUFFIX,uib.no
-  - DOMAIN-SUFFIX,siag.nu
-  - DOMAIN-SUFFIX,mega.nz
-  - DOMAIN-SUFFIX,up.pt
-  - DOMAIN-SUFFIX,null.ro
-  - DOMAIN-SUFFIX,corpit.ru
-  - DOMAIN-SUFFIX,curl.se
-  - DOMAIN-SUFFIX,haxx.se
-  - DOMAIN-SUFFIX,kryo.se
-  - DOMAIN-SUFFIX,liu.se
-  - DOMAIN-SUFFIX,sunet.se
-  - DOMAIN-SUFFIX,umu.se
-  - DOMAIN-SUFFIX,ac.uk
-  - DOMAIN-SUFFIX,co.uk
-  - DOMAIN-SUFFIX,org.uk
-  - DOMAIN-SUFFIX,nasm.us
-  - DOMAIN-SUFFIX,sudo.ws
-  # >> +.***
-  - DOMAIN-SUFFIX,berkeley.edu
-  - DOMAIN-SUFFIX,cmu.edu
-  - DOMAIN-SUFFIX,columbia.edu
-  - DOMAIN-SUFFIX,csuohio.edu
-  - DOMAIN-SUFFIX,harvard.edu
-  - DOMAIN-SUFFIX,indstate.edu
-  - DOMAIN-SUFFIX,mit.edu
-  - DOMAIN-SUFFIX,rit.edu
-  - DOMAIN-SUFFIX,stanford.edu
-  - DOMAIN-SUFFIX,udel.edu
-  - DOMAIN-SUFFIX,umd.edu
-  - DOMAIN-SUFFIX,wayne.edu
-  # >> +.****
+
+
+
+  # [*.4]
+
+  # -> (*.info)
   - DOMAIN-SUFFIX,aptly.info
   - DOMAIN-SUFFIX,brianstafford.info
+
+  # -> (*.name)
   - DOMAIN-SUFFIX,marples.name
+
+  # -> (*.surf)
   - DOMAIN-SUFFIX,mirror.surf
+
+  # -> (*.tech)
   - DOMAIN-SUFFIX,lftp.tech

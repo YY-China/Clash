@@ -1,58 +1,67 @@
 payload:
-  # >> Speedtest
+  # [Speedtest]
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,mapbox.com
   - DOMAIN-SUFFIX,speed.cloudflare.com
-  # >> Google
+
+  # [Google]
   - DOMAIN,services.googleapis.cn
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,googletagmanager.com
-  # >> Intel
+
+  # [Intel]
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,coveo.com
   - DOMAIN-SUFFIX,demdex.net
-  # >> Github
+
+  # [Synology]
+  - DOMAIN,global.download.synology.com
+
+  # [Github]
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,githubmemory.com
-  # >> Python
+
+  # [Python]
   - DOMAIN-SUFFIX,pypa.io
-  # >> OpenWrt
-  - DOMAIN-SUFFIX,openwrt.club
-  # >> Twrp
+
+  # [NetworkDisk]
+  - DOMAIN-SUFFIX,mediafire.com
+
+  # [Twrp]
   - DOMAIN-SUFFIX,twrp.me
-  # >> OpenGapps
+
+  # [OpenGapps]
   - DOMAIN-SUFFIX,opengapps.org
-  # >> AdAway
+
+  # [AdAway]
   - DOMAIN-SUFFIX,adaway.org
   - DOMAIN-SUFFIX,f-droid.org
-  # >> APKs-Mods
+
+  # [APKs-Mods]
   - DOMAIN-SUFFIX,apkadmin.com
   - DOMAIN-SUFFIX,rockmods.net
-  # >> DriverEasy
-  - DOMAIN-SUFFIX,drivereasy.com
-  # >> Freenom
+
+  # [Freenom]
   - DOMAIN-SUFFIX,freenom.com
-  # >> Dev-Community
+
+  # [Forums]
+  - DOMAIN-SUFFIX,openwrt.club # openwrt
   - DOMAIN-SUFFIX,dev.to
-  # >> Telegram
-  - DOMAIN-SUFFIX,tgstat.com
-  - DOMAIN-SUFFIX,tgchannels.org
-  # >> CrystalDisk
-  - DOMAIN-SUFFIX,xtom.com
-  - DOMAIN-SUFFIX,rwth-aachen.de
-  # >> NetworkDisk
-  - DOMAIN-SUFFIX,mediafire.com
-  # >> StartIsBack
-  - DOMAIN-SUFFIX,startallback.com
-  # >> Notepad++
-  - DOMAIN-SUFFIX,notepad-plus-plus.org
-  # >> ShareMouse
-  - DOMAIN-SUFFIX,sharemouse.com
-  # >> Bluestack
-  - DOMAIN-SUFFIX,bluestacks.com
-  # >> Vivaldi Browser
-  - DOMAIN-SUFFIX,vivaldi.com
-  # >> Porn
+  - DOMAIN-SUFFIX,codeswift.top
+  - DOMAIN-SUFFIX,tgstat.com # telegram
+  - DOMAIN-SUFFIX,tgchannels.org # telegram
+
+  # [Softwares]
+  - DOMAIN-SUFFIX,drivereasy.com # drivereasy
+  - DOMAIN-SUFFIX,xtom.com # crystaldisk
+  - DOMAIN-SUFFIX,rwth-aachen.de # crystaldisk
+  - DOMAIN-SUFFIX,startallback.com # startisback
+  - DOMAIN-SUFFIX,notepad-plus-plus.org # notepad++
+  - DOMAIN-SUFFIX,sharemouse.com # sharemouse
+  - DOMAIN-SUFFIX,bluestacks.com # bluestack
+  - DOMAIN-SUFFIX,vivaldi.com # vivaldi browser
+
+  # [Porn]
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,akabebe.com
   - DOMAIN-SUFFIX,atzekromchan.com

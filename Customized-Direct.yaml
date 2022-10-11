@@ -1,48 +1,67 @@
 payload:
-  # >> CN
+  # [Myself]
+  - DOMAIN-SUFFIX,xiaoyangzai.work
+  - DOMAIN-SUFFIX,xiaoyangzai.xyz
+
+  # [CN]
   - DOMAIN-KEYWORD,.com.cn.
   - DOMAIN-SUFFIX,.com.cn
-  # >> CDN
+  - DOMAIN,cn.gravatar.com
+  - DOMAIN,cn.archive.ubuntu.com
+
+  # [CDN]
+  - DOMAIN-SUFFIX,fastly.jsdelivr.net
   - DOMAIN-SUFFIX,ghproxy.com
-  # >> Vps
-  - DOMAIN-KEYWORD,xiaoyangzai.
-  - DOMAIN-SUFFIX,hcaptcha.com # spartan
-  - DOMAIN-SUFFIX,livechatinc.com # spartan
-  - DOMAIN-SUFFIX,stripe.com # spartan
-  - DOMAIN-SUFFIX,stripe.network # spartan
-  - DOMAIN-SUFFIX,spartanhost.net # spartan
-  # >> Docker
+  - DOMAIN-SUFFIX,raw.fastgit.org
+
+  # [Cloudflare]
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+
+  # [Docker]
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,snapcraftcontent.com
   - DOMAIN-SUFFIX,containrrr.dev
-  # >> Portainer
-  - DOMAIN-SUFFIX,digitaloceanspaces.com
-  # >> Cloudflare
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloudflare-dns.com
-  # >> Tampermonkey
+  - DOMAIN-SUFFIX,digitaloceanspaces.com # portainer
+
+  # [Spartan]
+  - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,livechatinc.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,spartanhost.net
+
+  # [Tampermonkey]
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,greasyfork.org
-  # >> Apple
+
+  # [Apple]
   - DOMAIN-SUFFIX,apple.com
-  # >> Yandex
+
+  # [Yandex]
   - DOMAIN-SUFFIX,yandex.net
-  # >> Nas
-  - DOMAIN-SUFFIX,qnap.com
+
+  # [Synology]
   - DOMAIN-SUFFIX,synology.com
-  # >> Miscellaneous
+
+  # [Qnap]
+  - DOMAIN-SUFFIX,qnap.com
+
+  # [4K]
+  - DOMAIN-SUFFIX,4ksj.com
+  
+  # [PianKu]
+  - DOMAIN-SUFFIX,mypianku.li
+  - DOMAIN-SUFFIX,mypianku.net
+
+  # [Miscellaneous]
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,lencr.org
-  - DOMAIN-SUFFIX,4ksj.com # 4K视界
-  - DOMAIN-SUFFIX,mypianku.li # 片库网
-  - DOMAIN-SUFFIX,mypianku.net # 片库网
   - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,segment.io
-  - DOMAIN,cn.gravatar.com
-  - DOMAIN,cn.archive.ubuntu.com

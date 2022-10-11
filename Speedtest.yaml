@@ -1,5 +1,5 @@
 payload:
-  # >> IP
+  # [IP]
   - IP-CIDR,5.62.46.38/32,no-resolve
   - IP-CIDR,64.119.5.68/32,no-resolve
   - IP-CIDR,69.72.28.30/32,no-resolve
@@ -20,7 +20,36 @@ payload:
   - IP-CIDR,208.84.220.137/32,no-resolve
   - IP-CIDR,216.176.187.138/32,no-resolve
   - IP-CIDR,216.202.203.188/32,no-resolve
-  # >> +.com
+
+
+
+  # [*.2]
+
+  # -> (*.ca)
+  - DOMAIN-SUFFIX,basinbroadband.ca
+  - DOMAIN-SUFFIX,bell.ca
+  - DOMAIN-SUFFIX,citywest.ca
+  - DOMAIN-SUFFIX,columbiawireless.ca
+  - DOMAIN-SUFFIX,eastlink.ca
+  - DOMAIN-SUFFIX,frontiernetworks.ca
+  - DOMAIN-SUFFIX,juce.ca
+  - DOMAIN-SUFFIX,o-net.ca
+  - DOMAIN-SUFFIX,ubc.ca
+  - DOMAIN-SUFFIX,unet.ca
+  - DOMAIN-SUFFIX,velocitynetworks.ca
+
+  # -> (*.io)
+  - DOMAIN-SUFFIX,mountainlink.io
+  - DOMAIN-SUFFIX,nip.io
+
+  # -> (*.tv)
+  - DOMAIN-SUFFIX,ifiber.tv
+
+
+
+  # [*.3]
+
+  # -> (*.com)
   - DOMAIN-SUFFIX,aberythmic.com
   - DOMAIN-SUFFIX,accessdg.com
   - DOMAIN-SUFFIX,aebc.com
@@ -90,7 +119,17 @@ payload:
   - DOMAIN-SUFFIX,wvi.com
   - DOMAIN-SUFFIX,xsmedia.com
   - DOMAIN-SUFFIX,ziffstatic.com
-  # >> +.net
+
+  # -> (*.edu)
+  - DOMAIN-SUFFIX,gonzaga.edu
+  - DOMAIN-SUFFIX,montana.edu
+  - DOMAIN-SUFFIX,ohsu.edu
+  - DOMAIN-SUFFIX,uark.edu
+
+  # -> (*.gov)
+  - DOMAIN-SUFFIX,bellevuewa.gov
+
+  # -> (*.net)
   - DOMAIN-SUFFIX,600amps.net
   - DOMAIN-SUFFIX,accretive-networks.net
   - DOMAIN-SUFFIX,alyrica.net
@@ -147,37 +186,29 @@ payload:
   - DOMAIN-SUFFIX,wtsky.net
   - DOMAIN-SUFFIX,wwest.net
   - DOMAIN-SUFFIX,xytel.net
-  # >> +.org
+
+  # -> (*.one)
+  - DOMAIN-SUFFIX,misaka.one
+
+  # -> (*.org)
   - DOMAIN-SUFFIX,cityofanacortes.org
   - DOMAIN-SUFFIX,eidnet.org
   - DOMAIN-SUFFIX,nezperce.org
   - DOMAIN-SUFFIX,sandynet.org
-  # >> +.**
-  - DOMAIN-SUFFIX,basinbroadband.ca
-  - DOMAIN-SUFFIX,bell.ca
-  - DOMAIN-SUFFIX,citywest.ca
-  - DOMAIN-SUFFIX,columbiawireless.ca
-  - DOMAIN-SUFFIX,eastlink.ca
-  - DOMAIN-SUFFIX,frontiernetworks.ca
-  - DOMAIN-SUFFIX,juce.ca
-  - DOMAIN-SUFFIX,o-net.ca
-  - DOMAIN-SUFFIX,ubc.ca
-  - DOMAIN-SUFFIX,unet.ca
-  - DOMAIN-SUFFIX,velocitynetworks.ca
-  - DOMAIN-SUFFIX,mountainlink.io
-  - DOMAIN-SUFFIX,nip.io
-  - DOMAIN-SUFFIX,ifiber.tv
-  # >> +.***
-  - DOMAIN-SUFFIX,gonzaga.edu
-  - DOMAIN-SUFFIX,montana.edu
-  - DOMAIN-SUFFIX,ohsu.edu
-  - DOMAIN-SUFFIX,uark.edu
-  - DOMAIN-SUFFIX,bellevuewa.gov
-  - DOMAIN-SUFFIX,misaka.one
+
+  # -> (*.tel)
   - DOMAIN-SUFFIX,intech.tel
-  # >> +.****
+
+
+
+  # [*.4]
+
+  # -> (*.coop)
   - DOMAIN-SUFFIX,directlink.coop
   - DOMAIN-SUFFIX,hrec.coop
   - DOMAIN-SUFFIX,smta.coop
-  # >> +.**********
+
+
+
+  # [*.5+]
   - DOMAIN-SUFFIX,intermax.network
