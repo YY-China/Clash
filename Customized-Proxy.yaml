@@ -57,6 +57,15 @@ payload:
   - DOMAIN-SUFFIX,vivaldi.com # vivaldi browser
 
   # [Porn]
+  # -> (萌幻之乡)
+  - DOMAIN-SUFFIX,hmoe1.net
+  - DOMAIN-SUFFIX,hmoe11.net
+  - DOMAIN-SUFFIX,hmoe.moe
+  - DOMAIN-SUFFIX,hmoe.one
+  - DOMAIN-SUFFIX,hmoe.top
+  - DOMAIN-SUFFIX,hmoe.link
+
+
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,akabebe.com
   - DOMAIN-SUFFIX,atzekromchan.com
@@ -76,16 +85,16 @@ payload:
   - DOMAIN-SUFFIX,picpar.com
   - DOMAIN-SUFFIX,sb-cd.com
   - DOMAIN-SUFFIX,yjcontentdelivery.com
-  - DOMAIN-SUFFIX,hmoe1.net
+
   - DOMAIN-SUFFIX,moe-acg.cc
   - DOMAIN-SUFFIX,fvs.io
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,moe-acg.us
   - DOMAIN-SUFFIX,dmoe.moe
-  - DOMAIN-SUFFIX,hmoe.moe
-  - DOMAIN-SUFFIX,hmoe.one
-  - DOMAIN-SUFFIX,hmoe.top
+
   - DOMAIN-SUFFIX,countapi.xyz
   - DOMAIN-SUFFIX,ecchi100.xyz
-  - DOMAIN-SUFFIX,hmoe.link
+
+
+
