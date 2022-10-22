@@ -21,6 +21,7 @@ payload:
   # [Docker]
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,snapcraftcontent.com
   - DOMAIN-SUFFIX,containrrr.dev
@@ -58,7 +59,6 @@ payload:
 
   # [Miscellaneous]
   - DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,jquery.com
