@@ -12,10 +12,6 @@ payload:
   # [Synology]
   - DOMAIN,global.download.synology.com
 
-  # [Github]
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,githubmemory.com
-
   # [Python]
   - DOMAIN-SUFFIX,pypa.io
 
