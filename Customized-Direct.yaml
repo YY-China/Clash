@@ -22,10 +22,7 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,snapcraft.io
-  - DOMAIN-SUFFIX,snapcraftcontent.com
-  - DOMAIN-SUFFIX,containrrr.dev
-  - DOMAIN-SUFFIX,digitaloceanspaces.com # portainer
+  - DOMAIN-SUFFIX,secure.gravatar.com
 
   # [Spartan]
   - DOMAIN-SUFFIX,hcaptcha.com
@@ -65,3 +62,7 @@ payload:
   - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,snapcraft.io
+  - DOMAIN-SUFFIX,snapcraftcontent.com
+  - DOMAIN-SUFFIX,containrrr.dev
+  - DOMAIN-SUFFIX,digitaloceanspaces.com # portainer
