@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,fastly.jsdelivr.net
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,raw.fastgit.org
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
 
   # [Cloudflare]
   - DOMAIN-SUFFIX,cloudflare.com
@@ -26,35 +28,23 @@ payload:
 
   # [Spartan]
   - DOMAIN-SUFFIX,hcaptcha.com
-  - DOMAIN-SUFFIX,livechatinc.com
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,stripe.network
   - DOMAIN-SUFFIX,spartanhost.net
+  - DOMAIN-SUFFIX,livechatinc.com
 
-  # [Tampermonkey]
-  - DOMAIN-SUFFIX,tampermonkey.net
-  - DOMAIN-SUFFIX,greasyfork.org
+  # [//...]
+  - DOMAIN-SUFFIX,synology.com # 群晖
+  - DOMAIN-SUFFIX,qnap.com # 威联通
+  - DOMAIN-SUFFIX,bing.com # 必应搜索
+  - DOMAIN-SUFFIX,yandex.net # Yandex搜索
+  - DOMAIN-SUFFIX,regdict.com # 正则查词
+  - DOMAIN-SUFFIX,4ksj.com # 4K视界
 
-  # [Apple]
-  - DOMAIN-SUFFIX,apple.com
 
-  # [Yandex]
-  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,tampermonkey.net  # Tampermonkey
+  - DOMAIN-SUFFIX,greasyfork.org  # Tampermonkey
+  - DOMAIN-SUFFIX,containrrr.dev # Portainer
+  - DOMAIN-SUFFIX,digitaloceanspaces.com # Portainer
 
-  # [Synology]
-  - DOMAIN-SUFFIX,synology.com
-
-  # [Qnap]
-  - DOMAIN-SUFFIX,qnap.com
-
-  # [4K]
-  - DOMAIN-SUFFIX,4ksj.com
-  
-  # [PianKu]
-  - DOMAIN-SUFFIX,mypianku.li
-  - DOMAIN-SUFFIX,mypianku.net
-
-  # [Miscellaneous]
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,ipify.org
@@ -64,5 +54,3 @@ payload:
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,snapcraftcontent.com
-  - DOMAIN-SUFFIX,containrrr.dev
-  - DOMAIN-SUFFIX,digitaloceanspaces.com # portainer

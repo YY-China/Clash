@@ -66,44 +66,15 @@ payload:
   - DOMAIN-SUFFIX,hmoe.link
 
   # -> (Hanime)
-  - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,fontawesome.com
+  - DOMAIN-SUFFIX,hanime1.me
+  - DOMAIN-SUFFIX,hembed.com
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,motherlessmedia.com
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,sb-cd.com
-  - DOMAIN-SUFFIX,motherlessmedia.com
+  - DOMAIN-SUFFIX,twimg.com
 
-
-
-
+  # -> (MaoMi-AV)
   - DOMAIN-SUFFIX,69ayp.com
-  - DOMAIN-SUFFIX,akabebe.com
-  - DOMAIN-SUFFIX,atzekromchan.com
-  - DOMAIN-SUFFIX,avgigi.com
-  - DOMAIN-SUFFIX,cdn1122.com
-  - DOMAIN-SUFFIX,dutrag.com
-  - DOMAIN-SUFFIX,ff-01.com
-  - DOMAIN-SUFFIX,ff-02.com
-  - DOMAIN-SUFFIX,ff-03.com
-  - DOMAIN-SUFFIX,ff-04.com
-  - DOMAIN-SUFFIX,ff-05.com
-  - DOMAIN-SUFFIX,flurry.com
-
   - DOMAIN-SUFFIX,maomiav.com
-
-  - DOMAIN-SUFFIX,mrdhan.com
-  - DOMAIN-SUFFIX,picpar.com
-
-  - DOMAIN-SUFFIX,yjcontentdelivery.com
-
-  - DOMAIN-SUFFIX,moe-acg.cc
-  - DOMAIN-SUFFIX,fvs.io
-
-
-  - DOMAIN-SUFFIX,moe-acg.us
-  - DOMAIN-SUFFIX,dmoe.moe
-
-  - DOMAIN-SUFFIX,countapi.xyz
-  - DOMAIN-SUFFIX,ecchi100.xyz
-
-
-
