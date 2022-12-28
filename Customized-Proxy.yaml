@@ -1,5 +1,6 @@
 payload:
   # [Google]
+  - DOMAIN,dl.google.com
   - DOMAIN,services.googleapis.cn
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,googletagmanager.com
