@@ -16,7 +16,8 @@ payload:
   # [Python]
   - DOMAIN-SUFFIX,pypa.io
 
-  # [NetworkDisk]
+  # [Download]
+  - DOMAIN-SUFFIX,fosshub.com
   - DOMAIN-SUFFIX,mediafire.com
 
   # [Twrp]
