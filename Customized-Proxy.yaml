@@ -1,6 +1,7 @@
 payload:
   # [Google]
   - DOMAIN,dl.google.com
+  - DOMAIN,golang.google.cn
   - DOMAIN,services.googleapis.cn
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,googletagmanager.com
