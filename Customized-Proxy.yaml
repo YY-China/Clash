@@ -19,6 +19,7 @@ payload:
   # [Download]
   - DOMAIN-SUFFIX,fosshub.com
   - DOMAIN-SUFFIX,mediafire.com
+  - DOMAIN-SUFFIX,devuploads.com
 
   # [Twrp]
   - DOMAIN-SUFFIX,twrp.me
