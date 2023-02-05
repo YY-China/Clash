@@ -430,6 +430,7 @@ payload:
   - DOMAIN-SUFFIX,pyyaml.org
   - DOMAIN-SUFFIX,qemu.org
   - DOMAIN-SUFFIX,qt-project.org
+  - DOMAIN-SUFFIX,rpm.org
   - DOMAIN-SUFFIX,rpm5.org
   - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,samba.org
