@@ -10,9 +10,9 @@ payload:
   - DOMAIN,cn.archive.ubuntu.com
 
   # [CDN]
-  - DOMAIN-SUFFIX,fastly.jsdelivr.net
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,fastgit.org
   - DOMAIN-SUFFIX,ghproxy.com
-  - DOMAIN-SUFFIX,raw.fastgit.org
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,stripe.network
 
