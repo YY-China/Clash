@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,codeswift.top
   - DOMAIN-SUFFIX,tgstat.com # telegram
   - DOMAIN-SUFFIX,tgchannels.org # telegram
+  - DOMAIN-SUFFIX,stackoverflow
 
   # [Softwares]
   - DOMAIN-SUFFIX,drivereasy.com # drivereasy
