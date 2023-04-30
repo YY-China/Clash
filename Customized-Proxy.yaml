@@ -10,6 +10,12 @@ payload:
   - DOMAIN-SUFFIX,coveo.com
   - DOMAIN-SUFFIX,demdex.net
 
+  # [Steam]
+  - DOMAIN,steammobile.akamaized.net
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
+
   # [Synology]
   - DOMAIN,global.download.synology.com
 
