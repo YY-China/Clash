@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,googletagmanager.com
 
+  # [Youtube]
+  - DOMAIN-SUFFIX,ajay.app
+  - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
+
   # [Intel]
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,coveo.com
