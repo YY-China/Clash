@@ -15,6 +15,10 @@ payload:
   - DOMAIN-SUFFIX,demdex.net
 
   # [Steam]
+  - DOMAIN-SUFFIX,ankiweb.net
+  - DOMAIN-SUFFIX,bootstrapcdn.com
+
+  # [Steam]
   - DOMAIN,steammobile.akamaized.net
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
