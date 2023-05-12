@@ -72,6 +72,9 @@ payload:
   - DOMAIN-SUFFIX,bluestacks.com # bluestack
   - DOMAIN-SUFFIX,vivaldi.com # vivaldi browser
 
+  # [ESPN]
+  - DOMAIN-SUFFIX,espn.com
+
   # [Porn]
   # -> (萌幻之乡)
   - DOMAIN-SUFFIX,hmoe1.net
