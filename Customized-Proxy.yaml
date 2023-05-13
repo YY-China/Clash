@@ -9,11 +9,6 @@ payload:
   - DOMAIN-SUFFIX,ajay.app
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 
-  # [Intel]
-  - DOMAIN-SUFFIX,intel.com
-  - DOMAIN-SUFFIX,coveo.com
-  - DOMAIN-SUFFIX,demdex.net
-
   # [Steam]
   - DOMAIN-SUFFIX,ankiweb.net
   - DOMAIN-SUFFIX,bootstrapcdn.com
