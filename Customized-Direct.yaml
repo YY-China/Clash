@@ -8,6 +8,9 @@ payload:
   - DOMAIN-SUFFIX,.com.cn
   - DOMAIN,cn.gravatar.com
   - DOMAIN,cn.archive.ubuntu.com
+  - DOMAIN,motd.ubuntu.com
+  - DOMAIN,esm.ubuntu.com
+  - DOMAIN,geoip.ubuntu.com
 
   # [CDN]
   - DOMAIN-SUFFIX,jsdelivr.net
