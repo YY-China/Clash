@@ -1,4 +1,9 @@
 payload:
+  # [WSA]
+  - DOMAIN,fe3.delivery.mp.microsoft.com
+  - DOMAIN,tlu.dl.delivery.mp.microsoft.com
+
+
   # [*.2]
 
   # -> (*.at)
