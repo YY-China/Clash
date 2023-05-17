@@ -12,8 +12,9 @@ payload:
   - DOMAIN,geoip.ubuntu.com
 
   # [CDN]
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,fastgit.org
+  - DOMAIN,fastly.jsdelivr.net
+  - DOMAIN,testingcf.jsdelivr.net
+  - DOMAIN,raw.fastgit.org
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,stripe.network
