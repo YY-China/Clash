@@ -1,6 +1,5 @@
 payload:
   # [Myself]
-  - DOMAIN-SUFFIX,xiaoyangzai.work
   - DOMAIN-SUFFIX,xiaoyangzai.xyz
 
   # [CN]
