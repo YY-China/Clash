@@ -3,6 +3,9 @@ payload:
   - DOMAIN,fe3.delivery.mp.microsoft.com
   - DOMAIN,tlu.dl.delivery.mp.microsoft.com
 
+  # [Synology]
+  - DOMAIN,global.download.synology.com
+
 
   # [*.2]
 

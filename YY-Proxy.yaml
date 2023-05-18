@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,ajay.app
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 
-  # [Steam]
+  # [Anki]
   - DOMAIN-SUFFIX,ankiweb.net
   - DOMAIN-SUFFIX,bootstrapcdn.com
 
@@ -18,9 +18,6 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamstatic.com
-
-  # [Synology]
-  - DOMAIN,global.download.synology.com
 
   # [Python]
   - DOMAIN-SUFFIX,pypa.io
@@ -66,9 +63,6 @@ payload:
   - DOMAIN-SUFFIX,sharemouse.com # sharemouse
   - DOMAIN-SUFFIX,bluestacks.com # bluestack
   - DOMAIN-SUFFIX,vivaldi.com # vivaldi browser
-
-  # [ESPN]
-  - DOMAIN-SUFFIX,espn.com
 
   # [Porn]
   # -> (萌幻之乡)
