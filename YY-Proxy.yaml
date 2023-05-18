@@ -1,30 +1,16 @@
 payload:
-  # [Google]
-  - DOMAIN,dl.google.com
-  - DOMAIN,services.googleapis.cn
-  - DOMAIN-SUFFIX,google.cn
-  - DOMAIN-SUFFIX,googletagmanager.com
-
   # [Youtube]
   - DOMAIN-SUFFIX,ajay.app
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 
   # [Anki]
   - DOMAIN-SUFFIX,ankiweb.net
-  - DOMAIN-SUFFIX,bootstrapcdn.com
-
-  # [Steam]
-  - DOMAIN,steammobile.akamaized.net
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamstatic.com
 
   # [Python]
   - DOMAIN-SUFFIX,pypa.io
 
   # [Download]
   - DOMAIN-SUFFIX,fosshub.com
-  - DOMAIN-SUFFIX,mediafire.com
   - DOMAIN-SUFFIX,devuploads.com
 
   # [Twrp]
@@ -35,7 +21,6 @@ payload:
 
   # [AdAway]
   - DOMAIN-SUFFIX,adaway.org
-  - DOMAIN-SUFFIX,f-droid.org
 
   # [APKs-Mods]
   - DOMAIN-SUFFIX,apkadmin.com
@@ -51,7 +36,6 @@ payload:
   - DOMAIN-SUFFIX,tgstat.com # telegram
   - DOMAIN-SUFFIX,tgchannels.org # telegram
   - DOMAIN-SUFFIX,telegram-store.com # telegram
-  - DOMAIN-SUFFIX,stackoverflow
 
   # [Softwares]
   - DOMAIN-SUFFIX,drivereasy.com # drivereasy
@@ -59,10 +43,7 @@ payload:
   - DOMAIN-SUFFIX,xtom.com # crystaldisk
   - DOMAIN-SUFFIX,rwth-aachen.de # crystaldisk
   - DOMAIN-SUFFIX,startallback.com # startisback
-  - DOMAIN-SUFFIX,notepad-plus-plus.org # notepad++
   - DOMAIN-SUFFIX,sharemouse.com # sharemouse
-  - DOMAIN-SUFFIX,bluestacks.com # bluestack
-  - DOMAIN-SUFFIX,vivaldi.com # vivaldi browser
 
   # [Porn]
   # -> (萌幻之乡)
@@ -74,14 +55,10 @@ payload:
   - DOMAIN-SUFFIX,hmoe.link
 
   # -> (Hanime)
-  - DOMAIN-SUFFIX,fontawesome.com
-  - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,hembed.com
-  - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,motherlessmedia.com
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,sb-cd.com
-  - DOMAIN-SUFFIX,twimg.com
 
   # -> (MaoMi-AV)
   - DOMAIN-SUFFIX,69ayp.com

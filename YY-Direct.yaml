@@ -14,14 +14,11 @@ payload:
   # [CDN]
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN,testingcf.jsdelivr.net
-  - DOMAIN,raw.fastgit.org
-  - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,stripe.network
 
   # [Cloudflare]
   - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloudflare-dns.com
 
   # [Docker]
   - DOMAIN-SUFFIX,docker.com
