@@ -240,7 +240,6 @@ payload:
   - DOMAIN-SUFFIX,telldus.com
   - DOMAIN-SUFFIX,tripadvisor.com
   - DOMAIN-SUFFIX,tuxera.com
-  - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,vanheusden.com
   - DOMAIN-SUFFIX,verysync.com
   - DOMAIN-SUFFIX,x10host.com
@@ -264,7 +263,6 @@ payload:
 
   # -> (*.net)
   - DOMAIN-SUFFIX,augeas.net
-  - DOMAIN-SUFFIX,debian.net
   - DOMAIN-SUFFIX,buildroot.net
   - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,clamav.net
