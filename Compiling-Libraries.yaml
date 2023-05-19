@@ -204,7 +204,6 @@ payload:
   - DOMAIN-SUFFIX,deviousfish.com
   - DOMAIN-SUFFIX,farsightsecurity.com
   - DOMAIN-SUFFIX,gitlab.com
-  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,greenwoodsoftware.com
   - DOMAIN-SUFFIX,hs-scripts.com
   - DOMAIN-SUFFIX,hubspot.com
