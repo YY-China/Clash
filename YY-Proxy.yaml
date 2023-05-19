@@ -6,6 +6,9 @@ payload:
   # [Anki]
   - DOMAIN-SUFFIX,ankiweb.net
 
+  # [Docker]
+  - DOMAIN,hub.docker.com
+
   # [Python]
   - DOMAIN-SUFFIX,pypa.io
 
