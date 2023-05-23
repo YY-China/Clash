@@ -1,7 +1,4 @@
 payload:
-  # [Myself]
-  - DOMAIN-SUFFIX,xiaoyangzai.xyz
-
   # [CN]
   - DOMAIN-KEYWORD,.com.cn.
   - DOMAIN-SUFFIX,.com.cn
