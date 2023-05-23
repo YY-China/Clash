@@ -1,4 +1,8 @@
 payload:
+  # [YY]
+  - DOMAIN-SUFFIX,dhylmr.cn
+  - DOMAIN-SUFFIX,dhylmr.com
+
   # [CN]
   - DOMAIN-KEYWORD,.com.cn.
   - DOMAIN-SUFFIX,.com.cn
