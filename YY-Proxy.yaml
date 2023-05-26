@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,pypa.io
 
   # [Download]
+  - DOMAIN,rt-cdn-edp1.azureedge.net
   - DOMAIN-SUFFIX,fosshub.com
   - DOMAIN-SUFFIX,devuploads.com
   - DOMAIN-SUFFIX,mega4down.com
