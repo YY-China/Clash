@@ -43,7 +43,6 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org  # Tampermonkey
   - DOMAIN-SUFFIX,containrrr.dev # Portainer
   - DOMAIN-SUFFIX,digitaloceanspaces.com # Portainer
-  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,jquery.com
