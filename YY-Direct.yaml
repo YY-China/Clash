@@ -21,12 +21,6 @@ payload:
   # [Cloudflare]
   - DOMAIN-SUFFIX,cloudflare.com
 
-  # [Docker]
-  - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,docker.io
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,secure.gravatar.com
-
   # [Spartan]
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,spartanhost.net

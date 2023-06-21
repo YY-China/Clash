@@ -7,7 +7,10 @@ payload:
   - DOMAIN-SUFFIX,ankiweb.net
 
   # [Docker]
-  - DOMAIN,hub.docker.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,secure.gravatar.com
 
   # [Python]
   - DOMAIN-SUFFIX,pypa.io
