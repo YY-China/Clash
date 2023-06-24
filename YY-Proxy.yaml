@@ -15,6 +15,9 @@ payload:
   # [Python]
   - DOMAIN-SUFFIX,pypa.io
 
+  # [Putty]
+  - DOMAIN-SUFFIX,putty.be
+
   # [Download]
   - DOMAIN,rt-cdn-edp1.azureedge.net
   - DOMAIN-SUFFIX,fosshub.com
