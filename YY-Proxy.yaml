@@ -5,6 +5,7 @@ payload:
 
   # [OpenAi]
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,speech.platform.bing.com
 
   # [Anki]
   - DOMAIN-SUFFIX,ankiweb.net
