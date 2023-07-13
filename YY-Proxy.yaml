@@ -1,7 +1,17 @@
 payload:
   # [DNS-Check]
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,dnsleak.com
   - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,expressvpn.com
   - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,nordvpn.com
+  - DOMAIN-SUFFIX,perfect-privacy.com
+  - DOMAIN-SUFFIX,surfshark.com
+  - DOMAIN-SUFFIX,vpnunlimited.com
+  - DOMAIN-SUFFIX,whoer.net
+  - DOMAIN-SUFFIX,whrq.net
 
   # [Youtube]
   - DOMAIN-SUFFIX,ajay.app
