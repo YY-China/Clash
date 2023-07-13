@@ -1,4 +1,8 @@
 payload:
+  # [DNS-Check]
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,ipleak.net
+
   # [Youtube]
   - DOMAIN-SUFFIX,ajay.app
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
