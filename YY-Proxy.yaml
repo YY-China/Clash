@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,telegram-store.com # telegram
 
   # [Softwares]
+  - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,drivereasy.com # drivereasy
   - DOMAIN-SUFFIX,softonic.com # as_ssd benchmark
   - DOMAIN-SUFFIX,xtom.com # crystaldisk
