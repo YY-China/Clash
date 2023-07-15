@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,devuploads.com
   - DOMAIN-SUFFIX,mega4down.com
   - DOMAIN-SUFFIX,mega4upload.com
+  - DOMAIN-SUFFIX,core.windows.net
 
   # [Twrp]
   - DOMAIN-SUFFIX,twrp.me
