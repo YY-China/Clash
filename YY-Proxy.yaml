@@ -44,6 +44,9 @@ payload:
   - DOMAIN-SUFFIX,mega4upload.com
   - DOMAIN-SUFFIX,core.windows.net
 
+  # [验证码]
+  - DOMAIN-SUFFIX,recaptcha.net
+
   # [Twrp]
   - DOMAIN-SUFFIX,twrp.me
 
