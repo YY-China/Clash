@@ -75,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,drivereasy.com # drivereasy
   - DOMAIN-SUFFIX,softonic.com # as_ssd benchmark
+  - DOMAIN-SUFFIX,crystalmark.info # crystaldisk
   - DOMAIN-SUFFIX,xtom.com # crystaldisk
   - DOMAIN-SUFFIX,rwth-aachen.de # crystaldisk
   - DOMAIN-SUFFIX,startallback.com # startisback
