@@ -99,3 +99,7 @@ payload:
   # -> (MaoMi-AV)
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,maomiav.com
+
+  # [Others]
+  - DOMAIN-SUFFIX,qoqkkhy.com # 视频网站
+
