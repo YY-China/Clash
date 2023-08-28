@@ -45,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,core.windows.net
 
   # [验证码]
+  - DOMAIN-SUFFIX,go-cqhttp.org
   - DOMAIN-SUFFIX,recaptcha.net
 
   # [Twrp]
