@@ -97,6 +97,9 @@ payload:
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,sb-cd.com
 
+  # -> (18comic)
+  - DOMAIN-SUFFIX,iiooxx.rocks
+
   # -> (MaoMi-AV)
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,maomiav.com
