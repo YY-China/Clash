@@ -102,6 +102,8 @@ payload:
 
   # -> (popjav)
   - DOMAIN-SUFFIX,popjav.info
+  - DOMAIN-SUFFIX,video-delivery.net
+  - DOMAIN-SUFFIX,dood.video
 
   # -> (MaoMi-AV)
   - DOMAIN-SUFFIX,69ayp.com
