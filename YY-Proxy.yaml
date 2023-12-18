@@ -100,6 +100,9 @@ payload:
   # -> (18comic)
   - DOMAIN-SUFFIX,iiooxx.rocks
 
+  # -> (popjav)
+  - DOMAIN-SUFFIX,popjav.info
+
   # -> (MaoMi-AV)
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,maomiav.com
