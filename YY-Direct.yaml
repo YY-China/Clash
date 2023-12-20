@@ -38,7 +38,6 @@ payload:
   - DOMAIN-SUFFIX,containrrr.dev # Portainer
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,ipify.org
-  - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,segment.io
