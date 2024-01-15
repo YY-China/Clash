@@ -37,6 +37,7 @@ payload:
 
   # [Download]
   - DOMAIN,rt-cdn-edp1.azureedge.net
+  - DOMAIN,dotnetcli.azureedge.net
   - DOMAIN,fe3cr.delivery.mp.microsoft.com # 微软商店
   - DOMAIN,downloadmirror.intel.com # Intel驱动
   - DOMAIN-SUFFIX,fosshub.com
