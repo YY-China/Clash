@@ -41,7 +41,6 @@ payload:
   - DOMAIN,fe3cr.delivery.mp.microsoft.com # 微软商店
   - DOMAIN,downloadmirror.intel.com # Intel驱动
   - DOMAIN-SUFFIX,fosshub.com
-  - DOMAIN-SUFFIX,devuploads.com
   - DOMAIN-SUFFIX,mega4down.com
   - DOMAIN-SUFFIX,mega4upload.com
   - DOMAIN-SUFFIX,core.windows.net
@@ -60,6 +59,7 @@ payload:
 
   # [APKs-Mods]
   - DOMAIN-SUFFIX,apkadmin.com
+  - DOMAIN-SUFFIX,devuploads.com
   - DOMAIN-SUFFIX,djxmaza.in
   - DOMAIN-SUFFIX,rockmods.net
 
