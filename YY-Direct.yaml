@@ -1,8 +1,4 @@
 payload:
-  # [YY]
-  - DOMAIN-SUFFIX,dhylmr.cn
-  - DOMAIN-SUFFIX,dhylmr.com
-
   # [CN]
   - DOMAIN-KEYWORD,.com.cn.
   - DOMAIN-SUFFIX,.com.cn
@@ -19,14 +15,33 @@ payload:
   - DOMAIN-SUFFIX,stripe.network
 
   # [Cloudflare]
+  - DOMAIN-SUFFIX,adtidy.org
+  - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare.net
+  - DOMAIN-SUFFIX,cloudflareclient.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,cloudflaressl.com
+  - DOMAIN-SUFFIX,cloudflarestream.com
+  - DOMAIN-SUFFIX,comodoca.com
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,digicertdns.com
+  - DOMAIN-SUFFIX,digicertdns.net
+  - DOMAIN-SUFFIX,eu.org
+  - DOMAIN-SUFFIX,every1dns.net
+  - DOMAIN-SUFFIX,gbsat.org
+  - DOMAIN-SUFFIX,nolanstore.cc
+  - DOMAIN-SUFFIX,pages.dev
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,verisign.com
+  - DOMAIN-SUFFIX,workers.dev
 
   # [Spartan]
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,spartanhost.net
   - DOMAIN-SUFFIX,livechatinc.com
 
-  # [//...]
+  #   - DOMAIN-SUFFIX,/...]
   - DOMAIN-SUFFIX,synology.com # 群晖
   - DOMAIN-SUFFIX,qnap.com # 威联通
   - DOMAIN-SUFFIX,bing.com # 必应搜索
