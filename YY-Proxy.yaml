@@ -85,6 +85,9 @@ payload:
   - DOMAIN-SUFFIX,sordum.org # WUB
 
   # [Porn]
+  # -> (久色)
+  - DOMAIN-SUFFIX,91porny.com
+  - DOMAIN-SUFFIX,jiuse2.cloud
   # -> (萌幻之乡)
   - DOMAIN-SUFFIX,hmoe1.net
   - DOMAIN-SUFFIX,hmoe11.net
