@@ -19,7 +19,7 @@ payload:
 
   # [Bike]
   - DOMAIN-SUFFIX,canyon.com
-  - DOMAIN-SUFFIX,giant.com
+  - DOMAIN-SUFFIX,giant-bicycles.com
   - DOMAIN-SUFFIX,road.cc
 
   # [OpenAi]
