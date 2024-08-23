@@ -126,6 +126,7 @@ payload:
 
   # -> (?)
   - DOMAIN-SUFFIX,fulijianghu.com
+  - DOMAIN-SUFFIX,ptlsp.com
   - DOMAIN-SUFFIX,wacos.top
 
 
