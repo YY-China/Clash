@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 
   # [Bike]
+  - DOMAIN-SUFFIX,cadex-cycling.com
   - DOMAIN-SUFFIX,canyon.com
   - DOMAIN-SUFFIX,giant-bicycles.com
   - DOMAIN-SUFFIX,road.cc
