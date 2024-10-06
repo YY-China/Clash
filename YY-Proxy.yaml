@@ -16,6 +16,7 @@ payload:
   # [Youtube]
   - DOMAIN-SUFFIX,ajay.app
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
+  - DOMAIN-SUFFIX,revanced.net
 
   # [Bike]
   - DOMAIN-SUFFIX,cadex-cycling.com
