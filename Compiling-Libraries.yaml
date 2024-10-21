@@ -19,6 +19,9 @@ payload:
   - DOMAIN-SUFFIX,com.au
   - DOMAIN-SUFFIX,edu.au
 
+  # -> (*.be)
+  - DOMAIN-SUFFIX,belnet.be
+
   # -> (*.br)
   - DOMAIN-SUFFIX,puc-rio.br
 
@@ -118,6 +121,9 @@ payload:
   - DOMAIN-SUFFIX,gr.jp
   - DOMAIN-SUFFIX,kddilabs.jp
   - DOMAIN-SUFFIX,riken.jp
+
+  # -> (*.kr)
+  - DOMAIN-SUFFIX,ac.kr
 
   # -> (*.lk)
   - DOMAIN-SUFFIX,miyuru.lk
@@ -247,6 +253,7 @@ payload:
 
   # -> (*.edu)
   - DOMAIN-SUFFIX,berkeley.edu
+  - DOMAIN-SUFFIX,buffalo.edu
   - DOMAIN-SUFFIX,cmu.edu
   - DOMAIN-SUFFIX,columbia.edu
   - DOMAIN-SUFFIX,csuohio.edu
