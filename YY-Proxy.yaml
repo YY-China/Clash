@@ -14,6 +14,9 @@ payload:
   - DOMAIN-SUFFIX,whrq.net
 
   # [Youtube]
+  - DOMAIN-SUFFIX,services.googleapis.cn
+
+  # [Youtube]
   - DOMAIN-SUFFIX,ajay.app
   - DOMAIN-SUFFIX,ko-fi.com
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
