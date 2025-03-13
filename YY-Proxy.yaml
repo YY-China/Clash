@@ -13,8 +13,8 @@ payload:
   - DOMAIN-SUFFIX,whoer.net
   - DOMAIN-SUFFIX,whrq.net
 
-  # [Youtube]
-  - DOMAIN-SUFFIX,services.googleapis.cn
+  # [Google]
+  - DOMAIN,services.googleapis.cn
 
   # [Youtube]
   - DOMAIN-SUFFIX,ajay.app
