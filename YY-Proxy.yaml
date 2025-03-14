@@ -22,6 +22,9 @@ payload:
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
   - DOMAIN-SUFFIX,revanced.net
 
+  # [Greasyfork]
+  - DOMAIN-SUFFIX,cn-greasyfork.org
+
   # [Bike]
   - DOMAIN-SUFFIX,cadex-cycling.com
   - DOMAIN-SUFFIX,canyon.com
