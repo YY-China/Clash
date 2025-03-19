@@ -25,6 +25,9 @@ payload:
   # [Greasyfork]
   - DOMAIN-SUFFIX,cn-greasyfork.org
 
+  # [NTLite]
+  - DOMAIN-SUFFIX,ntlite.com
+
   # [Bike]
   - DOMAIN-SUFFIX,cadex-cycling.com
   - DOMAIN-SUFFIX,canyon.com
