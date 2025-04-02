@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,whrq.net
 
   # [Google]
+  - DOMAIN,play.googleapis.com
   - DOMAIN,services.googleapis.cn
 
   # [Youtube]
