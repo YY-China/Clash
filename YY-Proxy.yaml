@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,ko-fi.com
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
   - DOMAIN-SUFFIX,revanced.net
+  - DOMAIN-SUFFIX,vanced.to
 
   # [Greasyfork]
   - DOMAIN-SUFFIX,cn-greasyfork.org
