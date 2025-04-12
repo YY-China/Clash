@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,cadex-cycling.com
   - DOMAIN-SUFFIX,canyon.com
   - DOMAIN-SUFFIX,giant-bicycles.com
+  - DOMAIN-SUFFIX,liv-cycling.com
   - DOMAIN-SUFFIX,road.cc
 
   # [OpenAi]
