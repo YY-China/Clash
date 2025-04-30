@@ -122,6 +122,9 @@ payload:
   - DOMAIN-SUFFIX,hmoe.top
   - DOMAIN-SUFFIX,hmoe.link
 
+  # -> (琉璃神社)
+  - DOMAIN-SUFFIX,hacg.site
+
   # -> (Hanime)
   - DOMAIN-SUFFIX,hembed.com
   - DOMAIN-SUFFIX,motherlessmedia.com
