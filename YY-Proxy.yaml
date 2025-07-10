@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,whrq.net
 
   # [Google]
+  - DOMAIN,play.googleapis.com
   - DOMAIN,services.googleapis.cn
 
   # [Youtube]
@@ -21,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,ko-fi.com
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
   - DOMAIN-SUFFIX,revanced.net
+  - DOMAIN-SUFFIX,vanced.to
 
   # [Greasyfork]
   - DOMAIN-SUFFIX,cn-greasyfork.org
@@ -31,7 +33,9 @@ payload:
   # [Bike]
   - DOMAIN-SUFFIX,cadex-cycling.com
   - DOMAIN-SUFFIX,canyon.com
+  - DOMAIN-SUFFIX,continental-tires.com
   - DOMAIN-SUFFIX,giant-bicycles.com
+  - DOMAIN-SUFFIX,liv-cycling.com
   - DOMAIN-SUFFIX,road.cc
 
   # [OpenAi]
@@ -119,6 +123,10 @@ payload:
   - DOMAIN-SUFFIX,hmoe.one
   - DOMAIN-SUFFIX,hmoe.top
   - DOMAIN-SUFFIX,hmoe.link
+
+  # -> (琉璃神社)
+  - DOMAIN-SUFFIX,hacg.me
+  - DOMAIN-SUFFIX,hacg.site
 
   # -> (Hanime)
   - DOMAIN-SUFFIX,hembed.com
