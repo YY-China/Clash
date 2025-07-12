@@ -311,6 +311,7 @@ payload:
   # -> (*.org)
   - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,2f30.org
+  - DOMAIN-SUFFIX,7-zip.org
   - DOMAIN-SUFFIX,acpica.org
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,alsa-project.org
