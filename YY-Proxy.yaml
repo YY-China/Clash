@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
   - DOMAIN-SUFFIX,revanced.app
   - DOMAIN-SUFFIX,revanced.net
+  - DOMAIN-SUFFIX,revanced.to
   - DOMAIN-SUFFIX,vanced.to
 
   # [Greasyfork]
