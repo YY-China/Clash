@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,ajay.app
   - DOMAIN-SUFFIX,ko-fi.com
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
+  - DOMAIN-SUFFIX,revanced.app
   - DOMAIN-SUFFIX,revanced.net
   - DOMAIN-SUFFIX,vanced.to
 
