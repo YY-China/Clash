@@ -16,6 +16,7 @@ payload:
   # [Google]
   - DOMAIN,play.googleapis.com
   - DOMAIN,services.googleapis.cn
+  - DOMAIN-SUFFIX,android.com
 
   # [Youtube]
   - DOMAIN-SUFFIX,ajay.app
