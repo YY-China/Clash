@@ -92,9 +92,11 @@ payload:
   - DOMAIN-SUFFIX,freenom.com
 
   # [Forums]
-  - DOMAIN-SUFFIX,openwrt.club # openwrt
+
+  - DOMAIN-SUFFIX,co.nz
   - DOMAIN-SUFFIX,dev.to
   - DOMAIN-SUFFIX,codeswift.top
+  - DOMAIN-SUFFIX,openwrt.club # openwrt
   - DOMAIN-SUFFIX,tgstat.com # telegram
   - DOMAIN-SUFFIX,tgchannels.org # telegram
   - DOMAIN-SUFFIX,telegram-store.com # telegram
