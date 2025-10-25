@@ -65,7 +65,7 @@ payload:
   - DOMAIN,dotnetcli.azureedge.net
   - DOMAIN,fe3cr.delivery.mp.microsoft.com # 微软商店
   - DOMAIN,downloadmirror.intel.com # Intel驱动
-  - DOMAIN-SUFFIX,androidapksbox.com
+  - DOMAIN-SUFFIX,androidapksbox.com # 安卓APK下载
   - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN-SUFFIX,fosshub.com
   - DOMAIN-SUFFIX,mega4down.com
