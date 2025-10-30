@@ -73,6 +73,9 @@ payload:
   - DOMAIN-SUFFIX,mega4upload.com
   - DOMAIN-SUFFIX,core.windows.net
 
+  # [青龙]
+  - DOMAIN-SUFFIX,466661.xyz # H5ST算法
+
   # [验证码]
   # - DOMAIN-SUFFIX,recaptcha.net
 
