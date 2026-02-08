@@ -43,10 +43,10 @@ payload:
   - DOMAIN-SUFFIX,road.cc
 
   # [OpenAi]
+  - DOMAIN,chatgpt.com
+  - DOMAIN,openai.com
   - DOMAIN,openaiapi-site.azureedge.net
-
-  # [Anki]
-  # - DOMAIN-SUFFIX,ankiweb.net
+  - DOMAIN,revenuecat.com
 
   # [Docker]
   - DOMAIN-SUFFIX,docker.com
