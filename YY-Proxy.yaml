@@ -43,9 +43,10 @@ payload:
   - DOMAIN-SUFFIX,road.cc
 
   # [OpenAi]
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,revenuecat.com
 
   # [Docker]
