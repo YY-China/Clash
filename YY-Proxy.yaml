@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,ntlite.com
 
   # [Bike]
+  - DOMAIN-SUFFIX,bicyclerollingresistance.com
   - DOMAIN-SUFFIX,clic2buy.com
   - DOMAIN-SUFFIX,cadex-cycling.com
   - DOMAIN-SUFFIX,canyon.com
