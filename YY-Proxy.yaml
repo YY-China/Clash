@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,canyon.com
   - DOMAIN-SUFFIX,continental-tires.com
   - DOMAIN-SUFFIX,giant-bicycles.com
+  - DOMAIN-SUFFIX,hutchinson.com
   - DOMAIN-SUFFIX,liv-cycling.com
   - DOMAIN-SUFFIX,road.cc
 
