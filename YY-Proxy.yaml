@@ -77,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,grab4k.com # 4K下载
   - DOMAIN-SUFFIX,mega4down.com
   - DOMAIN-SUFFIX,mega4upload.com
+  - DOMAIN-SUFFIX,pianku.li # 片库网
   - DOMAIN-SUFFIX,core.windows.net
 
   # [青龙]
