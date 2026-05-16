@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,androidapksbox.com # 安卓APK下载
   - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN-SUFFIX,fosshub.com
+  - DOMAIN-SUFFIX,grab4k.com # 4K下载
   - DOMAIN-SUFFIX,mega4down.com
   - DOMAIN-SUFFIX,mega4upload.com
   - DOMAIN-SUFFIX,core.windows.net
