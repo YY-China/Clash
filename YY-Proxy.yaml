@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,hutchinson.com
   - DOMAIN-SUFFIX,liv-cycling.com
   - DOMAIN-SUFFIX,road.cc
+  - DOMAIN-SUFFIX,vittoria.com
 
   # [OpenAi]
   - DOMAIN,openaiapi-site.azureedge.net
