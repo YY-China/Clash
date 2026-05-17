@@ -60,6 +60,9 @@ payload:
   - DOMAIN-SUFFIX,containrrr.dev
   - DOMAIN-SUFFIX,secure.gravatar.com
 
+  # [Paypal]
+  - DOMAIN-SUFFIX,datadoghq-browser-agent.com
+
   # [Python]
   - DOMAIN-SUFFIX,pypa.io
 
