@@ -66,8 +66,9 @@ payload:
   # [Python]
   - DOMAIN-SUFFIX,pypa.io
 
-  # [Putty]
+  # [SSH-Tools]
   - DOMAIN-SUFFIX,putty.be
+  - DOMAIN-SUFFIX,winscp.net
 
   # [Download]
   - DOMAIN,rt-cdn-edp1.azureedge.net
