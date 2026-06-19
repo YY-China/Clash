@@ -371,6 +371,7 @@ payload:
   - DOMAIN-SUFFIX,haproxy.org
   - DOMAIN-SUFFIX,hyperelliptic.org
   - DOMAIN-SUFFIX,iana.org
+  - DOMAIN-SUFFIX,ibiblio.org
   - DOMAIN-SUFFIX,infradead.org
   - DOMAIN-SUFFIX,isc.org
   - DOMAIN-SUFFIX,jedsoft.org
