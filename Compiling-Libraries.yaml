@@ -193,14 +193,17 @@ payload:
 
   # -> (*.com)
   - DOMAIN-SUFFIX,adiscon.com
+  - DOMAIN-SUFFIX,anitawoodley.com
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,armbian.com
   - DOMAIN-SUFFIX,askapache.com
   - DOMAIN-SUFFIX,astron.com
   - DOMAIN-SUFFIX,bintray.com
+  - DOMAIN-SUFFIX,blueprintmegaways.com
   - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,candelatech.com
   - DOMAIN-SUFFIX,canonical.com
+  - DOMAIN-SUFFIX,childcarebrooklyn.com
   - DOMAIN-SUFFIX,cihar.com
   - DOMAIN-SUFFIX,constant.com
   - DOMAIN-SUFFIX,creytiv.com
@@ -209,8 +212,10 @@ payload:
   - DOMAIN-SUFFIX,debian.com
   - DOMAIN-SUFFIX,deviousfish.com
   - DOMAIN-SUFFIX,farsightsecurity.com
+  - DOMAIN-SUFFIX,fontclaireenprovence.com
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,greenwoodsoftware.com
+  - DOMAIN-SUFFIX,heerotechnologies.com
   - DOMAIN-SUFFIX,hs-scripts.com
   - DOMAIN-SUFFIX,hubspot.com
   - DOMAIN-SUFFIX,icarus.com
@@ -223,6 +228,7 @@ payload:
   - DOMAIN-SUFFIX,lesbonscomptes.com
   - DOMAIN-SUFFIX,liuxha.com
   - DOMAIN-SUFFIX,lwfinger.com
+  - DOMAIN-SUFFIX,madetvnetwork.com
   - DOMAIN-SUFFIX,mega-nerd.com
   - DOMAIN-SUFFIX,mmonit.com
   - DOMAIN-SUFFIX,muppetlabs.com
@@ -238,6 +244,7 @@ payload:
   - DOMAIN-SUFFIX,quovadisoffshore.com
   - DOMAIN-SUFFIX,rarlab.com
   - DOMAIN-SUFFIX,redhat.com
+  - DOMAIN-SUFFIX,riversofrevival.com
   - DOMAIN-SUFFIX,rsyslog.com
   - DOMAIN-SUFFIX,sarata.com
   - DOMAIN-SUFFIX,stripydog.com
@@ -246,6 +253,9 @@ payload:
   - DOMAIN-SUFFIX,tuxera.com
   - DOMAIN-SUFFIX,vanheusden.com
   - DOMAIN-SUFFIX,verysync.com
+  - DOMAIN-SUFFIX,webliguria.com
+  - DOMAIN-SUFFIX,wftender.com
+  - DOMAIN-SUFFIX,wmmasonviolinshop.com
   - DOMAIN-SUFFIX,x10host.com
   - DOMAIN-SUFFIX,yubico.com
   - DOMAIN-SUFFIX,zabbix.com
@@ -270,6 +280,7 @@ payload:
   - DOMAIN-SUFFIX,augeas.net
   - DOMAIN-SUFFIX,buildroot.net
   - DOMAIN-SUFFIX,busybox.net
+  - DOMAIN-SUFFIX,bvbor.net
   - DOMAIN-SUFFIX,clamav.net
   - DOMAIN-SUFFIX,daemonology.net
   - DOMAIN-SUFFIX,daper.net
@@ -306,6 +317,7 @@ payload:
   - DOMAIN-SUFFIX,tnahosting.net
   - DOMAIN-SUFFIX,transip.net
   - DOMAIN-SUFFIX,ubuntu.net
+  - DOMAIN-SUFFIX,vidmatedownloadapk.net
   - DOMAIN-SUFFIX,zlib.net
 
   # -> (*.org)
@@ -318,6 +330,7 @@ payload:
   - DOMAIN-SUFFIX,antlr3.org
   - DOMAIN-SUFFIX,anytun.org
   - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,archeops.org
   - DOMAIN-SUFFIX,artfiles.org
   - DOMAIN-SUFFIX,asterisk.org
   - DOMAIN-SUFFIX,auroradev.org
