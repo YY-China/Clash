@@ -248,6 +248,7 @@ payload:
   - DOMAIN-SUFFIX,rsyslog.com
   - DOMAIN-SUFFIX,sarata.com
   - DOMAIN-SUFFIX,stripydog.com
+  - DOMAIN-SUFFIX,team-cymru.com
   - DOMAIN-SUFFIX,telldus.com
   - DOMAIN-SUFFIX,tripadvisor.com
   - DOMAIN-SUFFIX,tuxera.com
