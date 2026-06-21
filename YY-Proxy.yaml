@@ -86,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,mega4upload.com
   - DOMAIN-SUFFIX,pianku.info # 片库网
   - DOMAIN-SUFFIX,pianku.pro # 片库网
+  - DOMAIN-SUFFIX,realtek.com # 瑞昱
   - DOMAIN-SUFFIX,core.windows.net
 
   # [青龙]
