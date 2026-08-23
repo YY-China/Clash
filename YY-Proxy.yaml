@@ -94,6 +94,7 @@ payload:
 
   # [验证码]
   # - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,brunhild.challenges.cloudflare.com
 
   # [Twrp]
   - DOMAIN-SUFFIX,twrp.me
