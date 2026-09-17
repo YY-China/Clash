@@ -135,6 +135,9 @@ payload:
   - DOMAIN-SUFFIX,sordum.org # WUB
 
   # [Porn]
+  # -> (ACG)
+  - DOMAIN-SUFFIX,acggw.me
+
   # -> (九色)
   - DOMAIN-SUFFIX,91porny.com
   - DOMAIN-SUFFIX,jiuse2.cloud
