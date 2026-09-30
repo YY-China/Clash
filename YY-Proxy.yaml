@@ -88,6 +88,7 @@ payload:
   - DOMAIN-SUFFIX,pianku.pro # 片库网
   - DOMAIN-SUFFIX,realtek.com # 瑞昱
   - DOMAIN-SUFFIX,core.windows.net
+  - DOMAIN-SUFFIX,viayoo.com # via浏览器
 
   # [青龙]
   - DOMAIN-SUFFIX,466661.xyz # H5ST算法
