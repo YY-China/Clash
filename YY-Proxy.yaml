@@ -1,6 +1,7 @@
 payload:
   # [DNS-Check]
   - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.net
   - DOMAIN-SUFFIX,browserleaks.org
   - DOMAIN-SUFFIX,dnsleak.com
   - DOMAIN-SUFFIX,dnsleaktest.com
@@ -14,9 +15,9 @@ payload:
   - DOMAIN-SUFFIX,whrq.net
 
   # [Google]
-  - DOMAIN,play.googleapis.com
-  - DOMAIN,services.googleapis.cn
   - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN,services.googleapis.cn
 
   # [Youtube]
   - DOMAIN-SUFFIX,ajay.app
@@ -95,6 +96,7 @@ payload:
 
   # [验证码]
   # - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
 
   # [Twrp]
   - DOMAIN-SUFFIX,twrp.me
@@ -134,6 +136,9 @@ payload:
   - DOMAIN-SUFFIX,sordum.org # WUB
 
   # [Porn]
+  # -> (ACG)
+  - DOMAIN-SUFFIX,acgjlb.cc
+
   # -> (九色)
   - DOMAIN-SUFFIX,91porny.com
   - DOMAIN-SUFFIX,jiuse2.cloud
