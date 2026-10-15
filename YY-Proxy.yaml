@@ -180,7 +180,8 @@ payload:
   # -> (Rou)
   - DOMAIN-SUFFIX,rou.video
   - DOMAIN-SUFFIX,basp65.xyz
-
+  - DOMAIN-SUFFIX,rn252.xyz
+  - DOMAIN-SUFFIX,zush74.xyz
 
   # -> (?)
   - DOMAIN-SUFFIX,fulijianghu.com
