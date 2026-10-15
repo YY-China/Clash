@@ -37,9 +37,9 @@ payload:
 
   # [Bike]
   - DOMAIN-SUFFIX,bicyclerollingresistance.com
-  - DOMAIN-SUFFIX,clic2buy.com
   - DOMAIN-SUFFIX,cadex-cycling.com
   - DOMAIN-SUFFIX,canyon.com
+  - DOMAIN-SUFFIX,clic2buy.com
   - DOMAIN-SUFFIX,continental-tires.com
   - DOMAIN-SUFFIX,giant-bicycles.com
   - DOMAIN-SUFFIX,hutchinson.com
@@ -47,86 +47,18 @@ payload:
   - DOMAIN-SUFFIX,road.cc
   - DOMAIN-SUFFIX,vittoria.com
 
-  # [OpenAi]
-  - DOMAIN,openaiapi-site.azureedge.net
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,revenuecat.com
-
   # [Docker]
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,dockerstatic.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,containrrr.dev
-  - DOMAIN-SUFFIX,secure.gravatar.com
-
-  # [Paypal]
-  - DOMAIN-SUFFIX,datadoghq-browser-agent.com
-
-  # [Python]
-  - DOMAIN-SUFFIX,pypa.io
-
-  # [SSH-Tools]
-  - DOMAIN-SUFFIX,putty.be
-  - DOMAIN-SUFFIX,winscp.net
-
-  # [CDN]
-  - DOMAIN,rt-cdn-edp1.azureedge.net
-  - DOMAIN,dotnetcli.azureedge.net
-
-  # [Download]
-  - DOMAIN,fe3cr.delivery.mp.microsoft.com # 微软商店
-  - DOMAIN,downloadmirror.intel.com # Intel驱动
-  - DOMAIN-SUFFIX,aabstatic.com # 安卓APK下载
-  - DOMAIN-SUFFIX,androidapksbox.com # 安卓APK下载
-  - DOMAIN-SUFFIX,cloudflarestorage.com
-  - DOMAIN-SUFFIX,fosshub.com
-  - DOMAIN-SUFFIX,grab4k.com # 4K下载
-  - DOMAIN-SUFFIX,mega4down.com
-  - DOMAIN-SUFFIX,mega4upload.com
-  - DOMAIN-SUFFIX,pianku.info # 片库网
-  - DOMAIN-SUFFIX,pianku.pro # 片库网
-  - DOMAIN-SUFFIX,realtek.com # 瑞昱
-  - DOMAIN-SUFFIX,core.windows.net
-
-  # [青龙]
-  - DOMAIN-SUFFIX,466661.xyz # H5ST算法
+  - DOMAIN-SUFFIX,gravatar.com
 
   # [验证码]
-  # - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,challenges.cloudflare.com
 
-  # [Twrp]
-  - DOMAIN-SUFFIX,twrp.me
-
-  # [OpenGapps]
-  - DOMAIN-SUFFIX,opengapps.org
-
-  # [AdAway]
-  - DOMAIN-SUFFIX,adaway.org
-
-  # [APKs-Mods]
-  - DOMAIN-SUFFIX,apkadmin.com
-  - DOMAIN-SUFFIX,devuploads.com
-  - DOMAIN-SUFFIX,rockmods.net
-
-  # [Freenom]
-  - DOMAIN-SUFFIX,freenom.com
-
-  # [Forums]
-  - DOMAIN-SUFFIX,co.nz
-  - DOMAIN-SUFFIX,dev.to
-  - DOMAIN-SUFFIX,codeswift.top
-  - DOMAIN-SUFFIX,openwrt.club # openwrt
-  - DOMAIN-SUFFIX,tgstat.com # telegram
-  - DOMAIN-SUFFIX,tgchannels.org # telegram
-  - DOMAIN-SUFFIX,telegram-store.com # telegram
-
-  # [Softwares]
-  - DOMAIN-SUFFIX,digitaloceanspaces.com
-  - DOMAIN-SUFFIX,drivereasy.com # drivereasy
+  # [软件]
   - DOMAIN-SUFFIX,softonic.com # as_ssd benchmark
   - DOMAIN-SUFFIX,crystalmark.info # crystaldisk
   - DOMAIN-SUFFIX,xtom.com # crystaldisk
