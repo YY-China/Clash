@@ -173,10 +173,6 @@ payload:
   - DOMAIN-SUFFIX,video-delivery.net
   - DOMAIN-SUFFIX,dood.video
 
-  # -> (MaoMi-AV)
-  - DOMAIN-SUFFIX,69ayp.com
-  - DOMAIN-SUFFIX,maomiav.com
-
   # -> (Rou)
   - DOMAIN-SUFFIX,rou.video
   - DOMAIN-SUFFIX,basp65.xyz
