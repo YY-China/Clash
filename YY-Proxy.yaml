@@ -29,7 +29,7 @@ payload:
   - DOMAIN-SUFFIX,vanced.to
 
   # [Greasyfork]
-  - DOMAIN-SUFFIX,cn-greasyfork.org
+  - DOMAIN-SUFFIX,greasyfork.org
 
   # [NTLite]
   - DOMAIN-SUFFIX,ntlite.com
@@ -135,57 +135,20 @@ payload:
   - DOMAIN-SUFFIX,sordum.org # WUB
 
   # [Porn]
-  # -> (ACG)
-  - DOMAIN-SUFFIX,acgjlb.cc
-
   # -> (九色)
   - DOMAIN-SUFFIX,91porny.com
   - DOMAIN-SUFFIX,jiuse2.cloud
   - DOMAIN-SUFFIX,jiuse3.cloud
-
   # -> (色花堂)
   - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,fifcm.app
-
-  # -> (琉璃神社)
-  - DOMAIN-SUFFIX,hacg.me
-  - DOMAIN-SUFFIX,hacg.site
-
   # -> (Hanime)
   - DOMAIN-SUFFIX,hembed.com
   - DOMAIN-SUFFIX,motherlessmedia.com
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,sb-cd.com
-
-  # -> (18comic)
-  - DOMAIN-SUFFIX,iiooxx.rocks
-
-  # -> (popjav)
-  - DOMAIN-SUFFIX,popjav.info
-  - DOMAIN-SUFFIX,video-delivery.net
-  - DOMAIN-SUFFIX,dood.video
-
   # -> (Rou)
   - DOMAIN-SUFFIX,rou.video
   - DOMAIN-SUFFIX,basp65.xyz
   - DOMAIN-SUFFIX,rn252.xyz
   - DOMAIN-SUFFIX,zush74.xyz
-
-  # -> (?)
-  - DOMAIN-SUFFIX,fulijianghu.com
-  - DOMAIN-SUFFIX,moxing.app
-  - DOMAIN-SUFFIX,moxing.show
-  - DOMAIN-SUFFIX,moxing.vip
-  - DOMAIN-SUFFIX,ptlsp.com
-  - DOMAIN-SUFFIX,wacos.top
-
-
-  # [Others]
-  - DOMAIN-SUFFIX,qoqkkhy.com # 视频网站
-  - DOMAIN-SUFFIX,monkrus.ws # 俄罗斯破解站
-  - DOMAIN-SUFFIX,myself-bbs.com # 动漫
-  
-  
-  
-  - DOMAIN-SUFFIX,onlyfans.com
-  - DOMAIN-SUFFIX,ping0.cc
