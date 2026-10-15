@@ -177,6 +177,11 @@ payload:
   - DOMAIN-SUFFIX,69ayp.com
   - DOMAIN-SUFFIX,maomiav.com
 
+  # -> (Rou)
+  - DOMAIN-SUFFIX,rou.video
+  - DOMAIN-SUFFIX,basp65.xyz
+
+
   # -> (?)
   - DOMAIN-SUFFIX,fulijianghu.com
   - DOMAIN-SUFFIX,moxing.app
