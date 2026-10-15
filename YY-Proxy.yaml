@@ -30,6 +30,7 @@ payload:
 
   # [Greasyfork]
   - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,tampermonkey.net
 
   # [NTLite]
   - DOMAIN-SUFFIX,ntlite.com
