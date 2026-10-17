@@ -67,10 +67,6 @@ payload:
   - DOMAIN-SUFFIX,sharemouse.com # sharemouse
   - DOMAIN-SUFFIX,sordum.org # WUB
 
-  # [片库网]
-  - DOMAIN-SUFFIX,mypianku.net
-  - DOMAIN-SUFFIX,pianku.me
-
   # [Porn]
   # -> (九色)
   - DOMAIN-SUFFIX,91porny.com
